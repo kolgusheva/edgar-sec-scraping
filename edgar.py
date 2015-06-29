@@ -11,7 +11,7 @@ with open("cred.json", "r") as f:
 
 date = datetime.now().strftime("%Y%m%d")
 
-date = "20150625"
+date = "20150626"
 
 url = "ftp://ftp.sec.gov/edgar/daily-index/form." + date + ".idx"
 
@@ -130,7 +130,7 @@ if page:
 			else:
 				state = detail_page_by_lines[19]
 			state = state[-2:]
-			if state == "DE":
+			if state == "MO":
 				line_as_list.append(state)
 				url_and_acc = make_url_and_acc(line_as_list[4])
 				line_as_list[4] = url_and_acc["full_url"]
