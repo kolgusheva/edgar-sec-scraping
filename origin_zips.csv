@@ -1,0 +1,2509 @@
+zip,state,county,lat,lng
+60407,IL,Grundy County,41.22,-88.26
+60416,IL,Grundy County,41.28,-88.27
+60420,IL,Livingston County,41.09,-88.42
+60424,IL,Grundy County,41.18,-88.31
+60437,IL,Grundy County,41.19,-88.56
+60444,IL,Grundy County,41.23,-88.42
+60447,IL,Grundy County,41.44,-88.25
+60450,IL,Grundy County,41.36,-88.42
+60460,IL,Livingston County,41,-88.52
+60474,IL,Grundy County,41.17,-88.27
+60479,IL,Grundy County,41.21,-88.5
+60920,IL,Livingston County,41.02,-88.3
+60921,IL,Livingston County,40.75,-88.29
+60929,IL,Livingston County,40.87,-88.26
+60934,IL,Livingston County,40.97,-88.35
+61008,IL,Boone County,42.25,-88.84
+61011,IL,Boone County,42.4,-88.9
+61012,IL,Boone County,42.39,-88.74
+61014,IL,Carroll County,42.01,-89.88
+61038,IL,Boone County,42.25,-88.73
+61046,IL,Carroll County,42.1,-89.83
+61051,IL,Carroll County,41.96,-89.77
+61053,IL,Carroll County,42.09,-89.97
+61065,IL,Boone County,42.36,-88.82
+61074,IL,Carroll County,42.09,-90.13
+61078,IL,Carroll County,42.15,-89.74
+61231,IL,Mercer County,41.19,-90.74
+61233,IL,Henry County,41.29,-90.29
+61234,IL,Henry County,41.39,-89.9
+61235,IL,Henry County,41.41,-90.01
+61238,IL,Henry County,41.3,-90.19
+61241,IL,Henry County,41.47,-90.34
+61254,IL,Henry County,41.44,-90.15
+61258,IL,Henry County,41.52,-89.91
+61260,IL,Mercer County,41.19,-90.87
+61262,IL,Henry County,41.3,-90.35
+61263,IL,Mercer County,41.25,-90.6
+61272,IL,Mercer County,41.16,-91
+61273,IL,Henry County,41.35,-90.37
+61274,IL,Henry County,41.35,-90.28
+61276,IL,Mercer County,41.31,-90.58
+61279,IL,Mercer County,41.33,-90.67
+61281,IL,Mercer County,41.31,-90.5
+61285,IL,Carroll County,41.95,-90.1
+61311,IL,Livingston County,41.05,-88.76
+61313,IL,Livingston County,41.06,-88.64
+61319,IL,Livingston County,40.99,-88.72
+61326,IL,Putnam County,41.26,-89.22
+61327,IL,Putnam County,41.25,-89.31
+61333,IL,Livingston County,41,-88.89
+61335,IL,Putnam County,41.17,-89.2
+61336,IL,Putnam County,41.11,-89.19
+61340,IL,Putnam County,41.26,-89.24
+61363,IL,Putnam County,41.25,-89.18
+61401,IL,Knox County,40.95,-90.37
+61402,IL,Knox County,40.95,-90.37
+61410,IL,Knox County,40.8,-90.4
+61412,IL,Warren County,41.06,-90.55
+61412,IL,Warren County,41.06,-90.55
+61413,IL,Henry County,41.19,-90.38
+61414,IL,Knox County,41.11,-90.16
+61415,IL,Warren County,40.66,-90.43
+61415,IL,Warren County,40.66,-90.43
+61417,IL,Warren County,40.8,-90.53
+61417,IL,Warren County,40.8,-90.53
+61419,IL,Henry County,41.19,-90.11
+61423,IL,Warren County,40.88,-90.51
+61423,IL,Warren County,40.88,-90.51
+61428,IL,Knox County,40.95,-90.1
+61430,IL,Knox County,40.94,-90.31
+61434,IL,Henry County,41.16,-90.03
+61435,IL,Warren County,40.98,-90.6
+61435,IL,Warren County,40.98,-90.6
+61436,IL,Knox County,40.86,-90.2
+61439,IL,Knox County,41.02,-90.35
+61442,IL,Mercer County,41.1,-90.93
+61443,IL,Henry County,41.24,-89.92
+61447,IL,Warren County,40.86,-90.74
+61447,IL,Warren County,40.86,-90.74
+61448,IL,Knox County,40.9,-90.28
+61452,IL,Schuyler County,40.23,-90.62
+61453,IL,Warren County,41.01,-90.74
+61453,IL,Warren County,41.01,-90.74
+61458,IL,Knox County,40.79,-90.16
+61462,IL,Warren County,40.91,-90.64
+61462,IL,Warren County,40.91,-90.64
+61465,IL,Mercer County,41.2,-90.45
+61466,IL,Mercer County,41.09,-90.47
+61467,IL,Knox County,41.07,-90.22
+61468,IL,Henry County,41.28,-90.33
+61472,IL,Knox County,41.1,-90.39
+61473,IL,Warren County,40.73,-90.66
+61473,IL,Warren County,40.73,-90.66
+61474,IL,Knox County,40.71,-90.4
+61476,IL,Mercer County,41.1,-90.79
+61478,IL,Warren County,40.8,-90.78
+61478,IL,Warren County,40.8,-90.78
+61485,IL,Knox County,41.03,-90.09
+61486,IL,Mercer County,41.2,-90.58
+61488,IL,Knox County,41.02,-90.27
+61489,IL,Knox County,40.92,-90.01
+61490,IL,Henry County,41.17,-90.32
+61560,IL,Putnam County,41.18,-89.4
+61572,IL,Knox County,40.77,-90.01
+61739,IL,Livingston County,40.74,-88.51
+61740,IL,Livingston County,40.87,-88.86
+61741,IL,Livingston County,40.75,-88.4
+61743,IL,Livingston County,40.9,-88.75
+61756,IL,Macon County,40.03,-88.95
+61764,IL,Livingston County,40.87,-88.64
+61769,IL,Livingston County,40.89,-88.4
+61775,IL,Livingston County,40.65,-88.39
+61910,IL,Douglas County,39.68,-88.3
+61911,IL,Douglas County,39.71,-88.46
+61913,IL,Douglas County,39.79,-88.46
+61919,IL,Douglas County,39.79,-88.16
+61930,IL,Douglas County,39.68,-88.13
+61941,IL,Douglas County,39.8,-88.08
+61942,IL,Douglas County,39.79,-87.98
+61953,IL,Douglas County,39.79,-88.28
+61956,IL,Douglas County,39.86,-88.15
+61957,IL,Shelby County,39.43,-88.59
+62001,IL,Madison County,38.88,-89.73
+62001,IL,Madison County,38.88,-89.73
+62002,IL,Madison County,38.9,-90.15
+62002,IL,Madison County,38.9,-90.15
+62006,IL,Calhoun County,39.03,-90.65
+62009,IL,Macoupin County,39.09,-89.8
+62010,IL,Madison County,38.9,-90.04
+62010,IL,Madison County,38.9,-90.04
+62012,IL,Jersey County,39.04,-90.13
+62013,IL,Calhoun County,38.95,-90.58
+62014,IL,Macoupin County,39.04,-89.95
+62015,IL,Montgomery County,39.19,-89.53
+62016,IL,Greene County,39.29,-90.41
+62017,IL,Montgomery County,39.08,-89.39
+62018,IL,Madison County,38.91,-90.08
+62018,IL,Madison County,38.91,-90.08
+62019,IL,Bond County,39.03,-89.47
+62021,IL,Madison County,38.97,-89.99
+62021,IL,Madison County,38.97,-89.99
+62022,IL,Jersey County,39.04,-90.31
+62023,IL,Macoupin County,39.11,-89.78
+62024,IL,Madison County,38.88,-90.1
+62024,IL,Madison County,38.88,-90.1
+62025,IL,Madison County,38.8,-89.96
+62025,IL,Madison County,38.8,-89.96
+62026,IL,Madison County,38.8,-89.96
+62026,IL,Madison County,38.8,-89.96
+62027,IL,Greene County,39.28,-90.55
+62028,IL,Jersey County,38.95,-90.35
+62030,IL,Jersey County,39.15,-90.16
+62031,IL,Jersey County,39.1,-90.49
+62032,IL,Montgomery County,39.11,-89.27
+62033,IL,Macoupin County,39.12,-89.81
+62034,IL,Madison County,38.76,-89.97
+62034,IL,Madison County,38.76,-89.97
+62035,IL,Madison County,38.96,-90.18
+62035,IL,Madison County,38.96,-90.18
+62036,IL,Calhoun County,38.89,-90.57
+62037,IL,Jersey County,38.97,-90.42
+62040,IL,Madison County,38.71,-90.12
+62040,IL,Madison County,38.71,-90.12
+62044,IL,Greene County,39.34,-90.2
+62045,IL,Calhoun County,39.23,-90.71
+62046,IL,Madison County,38.88,-89.84
+62046,IL,Madison County,38.88,-89.84
+62047,IL,Calhoun County,39.15,-90.62
+62048,IL,Madison County,38.82,-90.09
+62048,IL,Madison County,38.82,-90.09
+62049,IL,Montgomery County,39.16,-89.48
+62050,IL,Greene County,39.44,-90.53
+62051,IL,Montgomery County,39.2,-89.4
+62052,IL,Jersey County,39.11,-90.32
+62053,IL,Calhoun County,39.3,-90.62
+62054,IL,Greene County,39.19,-90.35
+62056,IL,Montgomery County,39.17,-89.65
+62058,IL,Madison County,38.96,-89.76
+62058,IL,Madison County,38.96,-89.76
+62060,IL,Madison County,38.67,-90.15
+62060,IL,Madison County,38.67,-90.15
+62061,IL,Madison County,38.78,-89.77
+62061,IL,Madison County,38.78,-89.77
+62062,IL,Madison County,38.72,-89.96
+62062,IL,Madison County,38.72,-89.96
+62063,IL,Macoupin County,39.17,-90.14
+62065,IL,Calhoun County,39.23,-90.62
+62067,IL,Madison County,38.95,-89.99
+62067,IL,Madison County,38.95,-89.99
+62069,IL,Macoupin County,39.07,-89.72
+62070,IL,Calhoun County,39.29,-90.75
+62074,IL,Madison County,38.97,-89.66
+62074,IL,Madison County,38.97,-89.66
+62075,IL,Montgomery County,39.3,-89.28
+62076,IL,Montgomery County,39.34,-89.21
+62077,IL,Montgomery County,39.02,-89.52
+62078,IL,Greene County,39.48,-90.48
+62079,IL,Macoupin County,39.11,-90.12
+62081,IL,Greene County,39.27,-90.2
+62082,IL,Greene County,39.48,-90.37
+62083,IL,Christian County,39.39,-89.19
+62084,IL,Madison County,38.83,-90.05
+62084,IL,Madison County,38.83,-90.05
+62085,IL,Macoupin County,39.07,-89.8
+62086,IL,Bond County,39,-89.57
+62087,IL,Madison County,38.82,-90.05
+62087,IL,Madison County,38.82,-90.05
+62088,IL,Macoupin County,39.01,-89.78
+62089,IL,Montgomery County,39.13,-89.49
+62090,IL,Madison County,38.67,-90.16
+62090,IL,Madison County,38.67,-90.16
+62091,IL,Montgomery County,39.06,-89.61
+62092,IL,Greene County,39.43,-90.4
+62093,IL,Macoupin County,39.06,-89.85
+62094,IL,Montgomery County,39.25,-89.34
+62095,IL,Madison County,38.86,-90.08
+62095,IL,Madison County,38.86,-90.08
+62097,IL,Madison County,38.93,-89.83
+62097,IL,Madison County,38.93,-89.83
+62098,IL,Greene County,39.37,-90.29
+62201,IL,St Clair County,38.61,-90.13
+62201,IL,St Clair County,38.61,-90.13
+62203,IL,St Clair County,38.61,-90.13
+62203,IL,St Clair County,38.61,-90.13
+62204,IL,St Clair County,38.61,-90.13
+62204,IL,St Clair County,38.61,-90.13
+62205,IL,St Clair County,38.61,-90.13
+62205,IL,St Clair County,38.61,-90.13
+62206,IL,St Clair County,38.61,-90.13
+62206,IL,St Clair County,38.61,-90.13
+62207,IL,St Clair County,38.61,-90.13
+62207,IL,St Clair County,38.61,-90.13
+62208,IL,St Clair County,38.59,-90
+62208,IL,St Clair County,38.59,-90
+62214,IL,Washington County,38.39,-89.48
+62214,IL,Washington County,38.39,-89.48
+62215,IL,Clinton County,38.54,-89.61
+62215,IL,Clinton County,38.54,-89.61
+62215,IL,Clinton County,38.54,-89.61
+62216,IL,Clinton County,38.6,-89.6
+62216,IL,Clinton County,38.6,-89.6
+62216,IL,Clinton County,38.6,-89.6
+62217,IL,Randolph County,38.18,-89.84
+62218,IL,Clinton County,38.53,-89.46
+62218,IL,Clinton County,38.53,-89.46
+62218,IL,Clinton County,38.53,-89.46
+62219,IL,Clinton County,38.6,-89.43
+62219,IL,Clinton County,38.6,-89.43
+62219,IL,Clinton County,38.6,-89.43
+62220,IL,St Clair County,38.53,-90
+62220,IL,St Clair County,38.53,-90
+62221,IL,St Clair County,38.53,-90
+62221,IL,St Clair County,38.53,-90
+62223,IL,St Clair County,38.53,-90
+62223,IL,St Clair County,38.53,-90
+62225,IL,St Clair County,38.54,-89.85
+62225,IL,St Clair County,38.54,-89.85
+62226,IL,St Clair County,38.53,-90
+62226,IL,St Clair County,38.53,-90
+62230,IL,Clinton County,38.61,-89.52
+62230,IL,Clinton County,38.61,-89.52
+62230,IL,Clinton County,38.61,-89.52
+62231,IL,Clinton County,38.61,-89.37
+62231,IL,Clinton County,38.61,-89.37
+62231,IL,Clinton County,38.61,-89.37
+62232,IL,St Clair County,38.63,-90.03
+62232,IL,St Clair County,38.63,-90.03
+62233,IL,Randolph County,37.91,-89.82
+62234,IL,Madison County,38.67,-89.99
+62234,IL,Madison County,38.67,-89.99
+62236,IL,Monroe County,38.45,-90.22
+62236,IL,Monroe County,38.45,-90.22
+62237,IL,Perry County,38.18,-89.6
+62238,IL,Perry County,38.03,-89.56
+62239,IL,St Clair County,38.51,-90.2
+62239,IL,St Clair County,38.51,-90.2
+62240,IL,St Clair County,38.53,-90.23
+62240,IL,St Clair County,38.53,-90.23
+62241,IL,Randolph County,38,-89.9
+62242,IL,Randolph County,38.08,-89.93
+62243,IL,St Clair County,38.42,-89.9
+62243,IL,St Clair County,38.42,-89.9
+62244,IL,Monroe County,38.16,-90.21
+62244,IL,Monroe County,38.16,-90.21
+62245,IL,Clinton County,38.55,-89.53
+62245,IL,Clinton County,38.55,-89.53
+62245,IL,Clinton County,38.55,-89.53
+62246,IL,Bond County,38.88,-89.4
+62248,IL,Monroe County,38.3,-89.99
+62248,IL,Monroe County,38.3,-89.99
+62249,IL,Madison County,38.73,-89.69
+62249,IL,Madison County,38.73,-89.69
+62250,IL,Clinton County,38.53,-89.26
+62250,IL,Clinton County,38.53,-89.26
+62250,IL,Clinton County,38.53,-89.26
+62252,IL,Clinton County,38.6,-89.29
+62252,IL,Clinton County,38.6,-89.29
+62252,IL,Clinton County,38.6,-89.29
+62253,IL,Bond County,38.74,-89.27
+62254,IL,St Clair County,38.6,-89.81
+62254,IL,St Clair County,38.6,-89.81
+62255,IL,St Clair County,38.28,-89.81
+62255,IL,St Clair County,38.28,-89.81
+62256,IL,Monroe County,38.22,-90.23
+62256,IL,Monroe County,38.22,-90.23
+62257,IL,St Clair County,38.25,-89.75
+62257,IL,St Clair County,38.25,-89.75
+62258,IL,St Clair County,38.5,-89.8
+62258,IL,St Clair County,38.5,-89.8
+62259,IL,Randolph County,37.94,-89.86
+62260,IL,St Clair County,38.45,-90.09
+62260,IL,St Clair County,38.45,-90.09
+62261,IL,Randolph County,38.05,-90.03
+62263,IL,Washington County,38.34,-89.37
+62263,IL,Washington County,38.34,-89.37
+62264,IL,St Clair County,38.31,-89.87
+62264,IL,St Clair County,38.31,-89.87
+62265,IL,Clinton County,38.53,-89.69
+62265,IL,Clinton County,38.53,-89.69
+62265,IL,Clinton County,38.53,-89.69
+62266,IL,Clinton County,38.47,-89.67
+62266,IL,Clinton County,38.47,-89.67
+62266,IL,Clinton County,38.47,-89.67
+62268,IL,Washington County,38.26,-89.5
+62268,IL,Washington County,38.26,-89.5
+62269,IL,St Clair County,38.59,-89.91
+62269,IL,St Clair County,38.59,-89.91
+62271,IL,Washington County,38.43,-89.54
+62271,IL,Washington County,38.43,-89.54
+62272,IL,Randolph County,38.01,-89.61
+62273,IL,Bond County,38.77,-89.56
+62274,IL,Perry County,38.07,-89.38
+62275,IL,Bond County,38.82,-89.53
+62277,IL,Randolph County,38.08,-90.09
+62278,IL,Randolph County,38.21,-89.99
+62279,IL,Monroe County,38.15,-90.13
+62279,IL,Monroe County,38.15,-90.13
+62280,IL,Randolph County,37.83,-89.69
+62281,IL,Madison County,38.71,-89.76
+62281,IL,Madison County,38.71,-89.76
+62282,IL,St Clair County,38.36,-89.71
+62282,IL,St Clair County,38.36,-89.71
+62284,IL,Bond County,38.89,-89.34
+62285,IL,St Clair County,38.4,-89.99
+62285,IL,St Clair County,38.4,-89.99
+62286,IL,Randolph County,38.15,-89.71
+62288,IL,Randolph County,38,-89.66
+62289,IL,St Clair County,38.59,-89.74
+62289,IL,St Clair County,38.59,-89.74
+62292,IL,Randolph County,38.21,-89.68
+62293,IL,Clinton County,38.6,-89.68
+62293,IL,Clinton County,38.6,-89.68
+62293,IL,Clinton County,38.6,-89.68
+62294,IL,Madison County,38.73,-89.89
+62294,IL,Madison County,38.73,-89.89
+62295,IL,Monroe County,38.3,-90.31
+62295,IL,Monroe County,38.3,-90.31
+62297,IL,Randolph County,38.08,-89.85
+62298,IL,Monroe County,38.33,-90.15
+62298,IL,Monroe County,38.33,-90.15
+62312,IL,Pike County,39.69,-91.03
+62314,IL,Pike County,39.72,-90.9
+62319,IL,Schuyler County,40.15,-90.77
+62323,IL,Pike County,39.81,-90.65
+62340,IL,Pike County,39.7,-90.72
+62343,IL,Pike County,39.7,-91.2
+62344,IL,Schuyler County,40.18,-90.86
+62345,IL,Pike County,39.7,-91.15
+62352,IL,Pike County,39.56,-90.64
+62355,IL,Pike County,39.44,-90.79
+62356,IL,Pike County,39.63,-91.09
+62357,IL,Pike County,39.7,-90.84
+62361,IL,Pike County,39.45,-90.62
+62362,IL,Pike County,39.78,-90.74
+62363,IL,Pike County,39.61,-90.8
+62366,IL,Pike County,39.44,-90.87
+62370,IL,Pike County,39.53,-91
+62413,IL,Crawford County,39.15,-87.81
+62417,IL,Lawrence County,38.71,-87.75
+62420,IL,Clark County,39.3,-87.98
+62422,IL,Shelby County,39.24,-88.85
+62423,IL,Clark County,39.46,-87.58
+62426,IL,Clay County,38.92,-88.66
+62426,IL,Clay County,38.92,-88.66
+62427,IL,Crawford County,38.9,-87.67
+62431,IL,Shelby County,39.21,-88.98
+62432,IL,Jasper County,39.15,-88.15
+62433,IL,Crawford County,39.1,-87.66
+62434,IL,Clay County,38.84,-88.31
+62434,IL,Clay County,38.84,-88.31
+62438,IL,Shelby County,39.32,-88.9
+62439,IL,Lawrence County,38.72,-87.68
+62441,IL,Clark County,39.39,-87.69
+62442,IL,Clark County,39.33,-87.88
+62444,IL,Shelby County,39.28,-88.63
+62445,IL,Jasper County,39.16,-88.37
+62446,IL,Wayne County,38.51,-88.23
+62448,IL,Jasper County,38.98,-88.16
+62449,IL,Crawford County,39,-87.9
+62451,IL,Crawford County,39,-87.61
+62454,IL,Crawford County,39,-87.74
+62459,IL,Jasper County,38.93,-88.02
+62460,IL,Lawrence County,38.59,-87.64
+62463,IL,Shelby County,39.26,-88.62
+62464,IL,Crawford County,38.99,-87.83
+62465,IL,Shelby County,39.35,-88.62
+62466,IL,Lawrence County,38.71,-87.86
+62474,IL,Clark County,39.45,-87.99
+62475,IL,Jasper County,38.86,-88.08
+62477,IL,Clark County,39.21,-87.66
+62478,IL,Clark County,39.17,-87.67
+62479,IL,Jasper County,39.04,-88.31
+62480,IL,Jasper County,38.99,-88.02
+62481,IL,Jasper County,39.12,-88.02
+62501,IL,Macon County,39.98,-88.81
+62510,IL,Christian County,39.51,-89.04
+62513,IL,Macon County,39.7,-89.11
+62514,IL,Macon County,39.76,-89.05
+62517,IL,Christian County,39.59,-89.42
+62521,IL,Macon County,39.85,-88.93
+62522,IL,Macon County,39.85,-88.93
+62523,IL,Macon County,39.85,-88.93
+62524,IL,Macon County,39.85,-88.93
+62525,IL,Macon County,39.85,-88.93
+62526,IL,Macon County,39.85,-88.93
+62531,IL,Christian County,39.65,-89.38
+62532,IL,Macon County,39.78,-88.95
+62533,IL,Montgomery County,39.44,-89.65
+62534,IL,Shelby County,39.52,-88.75
+62535,IL,Macon County,39.92,-88.95
+62537,IL,Macon County,39.84,-89.05
+62538,IL,Christian County,39.35,-89.53
+62540,IL,Christian County,39.58,-89.41
+62544,IL,Macon County,39.7,-88.99
+62546,IL,Christian County,39.42,-89.45
+62547,IL,Christian County,39.76,-89.26
+62549,IL,Macon County,39.77,-88.87
+62550,IL,Shelby County,39.62,-89.01
+62551,IL,Macon County,39.85,-89.16
+62553,IL,Shelby County,39.28,-89.1
+62554,IL,Macon County,39.93,-88.86
+62555,IL,Christian County,39.48,-89.19
+62556,IL,Christian County,39.45,-89.4
+62557,IL,Christian County,39.38,-89.07
+62560,IL,Montgomery County,39.32,-89.57
+62565,IL,Shelby County,39.4,-88.8
+62567,IL,Christian County,39.63,-89.19
+62568,IL,Christian County,39.52,-89.26
+62570,IL,Christian County,39.58,-89.44
+62571,IL,Shelby County,39.38,-88.95
+62572,IL,Montgomery County,39.37,-89.65
+62573,IL,Macon County,39.93,-89.06
+62601,IL,Morgan County,39.71,-90.05
+62610,IL,Scott County,39.55,-90.43
+62611,IL,Cass County,39.87,-90.37
+62611,IL,Cass County,39.87,-90.37
+62612,IL,Cass County,39.88,-90
+62612,IL,Cass County,39.88,-90
+62618,IL,Cass County,40,-90.41
+62618,IL,Cass County,40,-90.41
+62621,IL,Scott County,39.75,-90.53
+62622,IL,Cass County,39.98,-90.37
+62622,IL,Cass County,39.98,-90.37
+62624,IL,Schuyler County,40.12,-90.37
+62626,IL,Macoupin County,39.28,-89.88
+62627,IL,Cass County,40.04,-90.15
+62627,IL,Cass County,40.04,-90.15
+62628,IL,Morgan County,39.76,-90.4
+62630,IL,Macoupin County,39.25,-90.06
+62631,IL,Morgan County,39.81,-90.37
+62638,IL,Morgan County,39.62,-90.04
+62639,IL,Schuyler County,40.06,-90.43
+62640,IL,Macoupin County,39.44,-89.78
+62649,IL,Macoupin County,39.35,-90.03
+62650,IL,Morgan County,39.72,-90.23
+62651,IL,Morgan County,39.72,-90.23
+62660,IL,Morgan County,39.85,-90.2
+62663,IL,Scott County,39.54,-90.33
+62665,IL,Morgan County,39.83,-90.55
+62667,IL,Macoupin County,39.47,-89.98
+62668,IL,Morgan County,39.58,-90.25
+62672,IL,Macoupin County,39.39,-89.8
+62674,IL,Macoupin County,39.43,-89.99
+62681,IL,Schuyler County,40.11,-90.56
+62683,IL,Macoupin County,39.47,-90.1
+62685,IL,Macoupin County,39.12,-90.04
+62690,IL,Macoupin County,39.5,-89.76
+62691,IL,Cass County,39.95,-90.21
+62691,IL,Cass County,39.95,-90.21
+62692,IL,Morgan County,39.59,-89.95
+62694,IL,Scott County,39.62,-90.45
+62695,IL,Morgan County,39.62,-90.22
+62801,IL,Marion County,38.52,-89.12
+62803,IL,Washington County,38.44,-89.27
+62803,IL,Washington County,38.44,-89.27
+62805,IL,Franklin County,37.98,-88.75
+62805,IL,Franklin County,37.98,-88.75
+62805,IL,Franklin County,37.98,-88.75
+62807,IL,Marion County,38.72,-88.91
+62808,IL,Washington County,38.32,-89.18
+62808,IL,Washington County,38.32,-89.18
+62809,IL,Wayne County,38.27,-88.38
+62810,IL,Jefferson County,38.23,-88.73
+62810,IL,Jefferson County,38.23,-88.73
+62812,IL,Franklin County,38,-88.91
+62812,IL,Franklin County,38,-88.91
+62812,IL,Franklin County,38,-88.91
+62814,IL,Jefferson County,38.32,-88.73
+62814,IL,Jefferson County,38.32,-88.73
+62816,IL,Jefferson County,38.2,-88.9
+62816,IL,Jefferson County,38.2,-88.9
+62819,IL,Franklin County,37.98,-89.01
+62819,IL,Franklin County,37.98,-89.01
+62819,IL,Franklin County,37.98,-89.01
+62822,IL,Franklin County,37.97,-89.05
+62822,IL,Franklin County,37.97,-89.05
+62822,IL,Franklin County,37.97,-89.05
+62823,IL,Wayne County,38.51,-88.43
+62824,IL,Clay County,38.68,-88.35
+62824,IL,Clay County,38.68,-88.35
+62825,IL,Franklin County,38.04,-89.09
+62825,IL,Franklin County,38.04,-89.09
+62825,IL,Franklin County,38.04,-89.09
+62830,IL,Jefferson County,38.44,-88.94
+62830,IL,Jefferson County,38.44,-88.94
+62831,IL,Washington County,38.22,-89.21
+62831,IL,Washington County,38.22,-89.21
+62832,IL,Perry County,38,-89.23
+62833,IL,Wayne County,38.36,-88.13
+62836,IL,Franklin County,38.08,-88.85
+62836,IL,Franklin County,38.08,-88.85
+62836,IL,Franklin County,38.08,-88.85
+62837,IL,Wayne County,38.38,-88.36
+62839,IL,Clay County,38.67,-88.47
+62839,IL,Clay County,38.67,-88.47
+62840,IL,Franklin County,37.9,-88.84
+62840,IL,Franklin County,37.9,-88.84
+62840,IL,Franklin County,37.9,-88.84
+62841,IL,,37.85,-88.99
+62842,IL,Wayne County,38.44,-88.42
+62843,IL,Wayne County,38.35,-88.2
+62846,IL,Jefferson County,38.15,-88.9
+62846,IL,Jefferson County,38.15,-88.9
+62848,IL,Washington County,38.43,-89.16
+62848,IL,Washington County,38.43,-89.16
+62849,IL,Marion County,38.61,-88.78
+62850,IL,Wayne County,38.52,-88.53
+62851,IL,Wayne County,38.33,-88.64
+62853,IL,Marion County,38.49,-88.9
+62854,IL,Marion County,38.77,-88.84
+62856,IL,Franklin County,37.93,-88.84
+62856,IL,Franklin County,37.93,-88.84
+62856,IL,Franklin County,37.93,-88.84
+62858,IL,Clay County,38.76,-88.5
+62858,IL,Clay County,38.76,-88.5
+62864,IL,Jefferson County,38.31,-88.91
+62864,IL,Jefferson County,38.31,-88.91
+62865,IL,Franklin County,37.96,-89.13
+62865,IL,Franklin County,37.96,-89.13
+62865,IL,Franklin County,37.96,-89.13
+62866,IL,Jefferson County,38.17,-88.96
+62866,IL,Jefferson County,38.17,-88.96
+62870,IL,Marion County,38.61,-89.05
+62872,IL,Jefferson County,38.27,-88.75
+62872,IL,Jefferson County,38.27,-88.75
+62874,IL,Franklin County,37.91,-88.97
+62874,IL,Franklin County,37.91,-88.97
+62874,IL,Franklin County,37.91,-88.97
+62875,IL,Marion County,38.75,-89.09
+62876,IL,Washington County,38.28,-89.19
+62876,IL,Washington County,38.28,-89.19
+62877,IL,Washington County,38.37,-89.18
+62877,IL,Washington County,38.37,-89.18
+62878,IL,Wayne County,38.58,-88.47
+62879,IL,Clay County,38.76,-88.35
+62879,IL,Clay County,38.76,-88.35
+62881,IL,Marion County,38.62,-88.95
+62882,IL,Marion County,38.61,-89.11
+62883,IL,Jefferson County,38.16,-89.09
+62883,IL,Jefferson County,38.16,-89.09
+62884,IL,Franklin County,38.09,-89.05
+62884,IL,Franklin County,38.09,-89.05
+62884,IL,Franklin County,38.09,-89.05
+62886,IL,Wayne County,38.36,-88.53
+62888,IL,Perry County,38.13,-89.22
+62889,IL,Jefferson County,38.43,-88.86
+62889,IL,Jefferson County,38.43,-88.86
+62890,IL,Franklin County,37.91,-88.76
+62890,IL,Franklin County,37.91,-88.76
+62890,IL,Franklin County,37.91,-88.76
+62891,IL,Franklin County,38.01,-89.04
+62891,IL,Franklin County,38.01,-89.04
+62891,IL,Franklin County,38.01,-89.04
+62892,IL,Marion County,38.8,-89.08
+62893,IL,Marion County,38.47,-89.04
+62894,IL,Jefferson County,38.21,-89.03
+62894,IL,Jefferson County,38.21,-89.03
+62895,IL,Wayne County,38.34,-88.58
+62896,IL,Franklin County,37.9,-88.92
+62896,IL,Franklin County,37.9,-88.92
+62896,IL,Franklin County,37.9,-88.92
+62897,IL,Franklin County,38.1,-88.87
+62897,IL,Franklin County,38.1,-88.87
+62897,IL,Franklin County,38.1,-88.87
+62898,IL,Jefferson County,38.33,-89.03
+62898,IL,Jefferson County,38.33,-89.03
+62899,IL,Clay County,38.63,-88.63
+62899,IL,Clay County,38.63,-88.63
+62901,IL,Jackson County,37.72,-89.21
+62901,IL,Jackson County,37.72,-89.21
+62903,IL,Jackson County,37.72,-89.21
+62903,IL,Jackson County,37.72,-89.21
+62907,IL,Jackson County,37.88,-89.49
+62907,IL,Jackson County,37.88,-89.49
+62909,IL,Johnson County,37.36,-89
+62909,IL,Johnson County,37.36,-89
+62912,IL,Johnson County,37.47,-88.97
+62912,IL,Johnson County,37.47,-88.97
+62916,IL,Jackson County,37.93,-89.55
+62916,IL,Jackson County,37.93,-89.55
+62917,IL,Saline County,37.65,-88.61
+62923,IL,Johnson County,37.36,-89.01
+62923,IL,Johnson County,37.36,-89.01
+62924,IL,Jackson County,37.81,-89.22
+62924,IL,Jackson County,37.81,-89.22
+62927,IL,Jackson County,37.93,-89.23
+62927,IL,Jackson County,37.93,-89.23
+62930,IL,Saline County,37.81,-88.44
+62932,IL,Jackson County,37.9,-89.23
+62932,IL,Jackson County,37.9,-89.23
+62935,IL,Saline County,37.84,-88.61
+62939,IL,Johnson County,37.55,-88.97
+62939,IL,Johnson County,37.55,-88.97
+62940,IL,Jackson County,37.71,-89.48
+62940,IL,Jackson County,37.71,-89.48
+62941,IL,Pulaski County,37.25,-89.01
+62942,IL,Jackson County,37.63,-89.5
+62942,IL,Jackson County,37.63,-89.5
+62943,IL,Johnson County,37.37,-88.76
+62943,IL,Johnson County,37.37,-88.76
+62946,IL,Saline County,37.73,-88.54
+62950,IL,Jackson County,37.74,-89.54
+62950,IL,Jackson County,37.74,-89.54
+62953,IL,Pulaski County,37.2,-88.84
+62956,IL,Pulaski County,37.29,-88.97
+62958,IL,Jackson County,37.61,-89.23
+62958,IL,Jackson County,37.61,-89.23
+62963,IL,Pulaski County,37.08,-89.16
+62964,IL,Pulaski County,37.11,-89.2
+62965,IL,Saline County,37.76,-88.51
+62966,IL,Jackson County,37.76,-89.33
+62966,IL,Jackson County,37.76,-89.33
+62967,IL,Johnson County,37.57,-88.77
+62967,IL,Johnson County,37.57,-88.77
+62970,IL,Pulaski County,37.18,-89.08
+62971,IL,Jackson County,37.9,-89.43
+62971,IL,Jackson County,37.9,-89.43
+62972,IL,Johnson County,37.53,-88.76
+62972,IL,Johnson County,37.53,-88.76
+62973,IL,Pulaski County,37.29,-89.08
+62975,IL,Jackson County,37.64,-89.34
+62975,IL,Jackson County,37.64,-89.34
+62976,IL,Pulaski County,37.21,-89.2
+62977,IL,Saline County,37.82,-88.53
+62983,IL,Franklin County,37.87,-89.11
+62983,IL,Franklin County,37.87,-89.11
+62983,IL,Franklin County,37.87,-89.11
+62985,IL,Johnson County,37.46,-88.75
+62985,IL,Johnson County,37.46,-88.75
+62987,IL,Saline County,37.61,-88.7
+62992,IL,Pulaski County,37.28,-89.18
+62994,IL,Jackson County,37.9,-89.33
+62994,IL,Jackson County,37.9,-89.33
+62995,IL,Johnson County,37.41,-88.89
+62995,IL,Johnson County,37.41,-88.89
+62996,IL,Pulaski County,37.15,-89.17
+62997,IL,Perry County,37.98,-89.59
+62999,IL,Franklin County,37.89,-89.05
+62999,IL,Franklin County,37.89,-89.05
+62999,IL,Franklin County,37.89,-89.05
+63005,MO,St Louis County,38.65,-90.58
+63005,MO,St Louis County,38.65,-90.58
+63010,MO,Jefferson County,38.42,-90.36
+63010,MO,Jefferson County,38.42,-90.36
+63011,MO,St Louis County,38.59,-90.55
+63011,MO,St Louis County,38.59,-90.55
+63012,MO,Jefferson County,38.33,-90.4
+63012,MO,Jefferson County,38.33,-90.4
+63013,MO,Franklin County,38.41,-91.19
+63013,MO,Franklin County,38.41,-91.19
+63013,MO,Franklin County,38.41,-91.19
+63014,MO,Franklin County,38.67,-91.33
+63014,MO,Franklin County,38.67,-91.33
+63014,MO,Franklin County,38.67,-91.33
+63015,MO,Franklin County,38.42,-90.78
+63015,MO,Franklin County,38.42,-90.78
+63015,MO,Franklin County,38.42,-90.78
+63016,MO,Jefferson County,38.35,-90.64
+63016,MO,Jefferson County,38.35,-90.64
+63017,MO,St Louis County,38.65,-90.58
+63017,MO,St Louis County,38.65,-90.58
+63019,MO,Jefferson County,38.22,-90.38
+63019,MO,Jefferson County,38.22,-90.38
+63020,MO,Jefferson County,38.13,-90.56
+63020,MO,Jefferson County,38.13,-90.56
+63021,MO,St Louis County,38.59,-90.55
+63021,MO,St Louis County,38.59,-90.55
+63023,MO,Jefferson County,38.33,-90.68
+63023,MO,Jefferson County,38.33,-90.68
+63025,MO,St Louis County,38.5,-90.64
+63025,MO,St Louis County,38.5,-90.64
+63026,MO,St Louis County,38.53,-90.45
+63026,MO,St Louis County,38.53,-90.45
+63028,MO,Jefferson County,38.22,-90.4
+63028,MO,Jefferson County,38.22,-90.4
+63030,MO,Washington County,38.16,-90.73
+63030,MO,Washington County,38.16,-90.73
+63031,MO,St Louis County,38.79,-90.32
+63031,MO,St Louis County,38.79,-90.32
+63033,MO,St Louis County,38.79,-90.32
+63033,MO,St Louis County,38.79,-90.32
+63034,MO,St Louis County,38.79,-90.32
+63034,MO,St Louis County,38.79,-90.32
+63036,MO,St Francois County,37.97,-90.38
+63036,MO,St Francois County,37.97,-90.38
+63037,MO,Franklin County,38.39,-91.33
+63037,MO,Franklin County,38.39,-91.33
+63037,MO,Franklin County,38.39,-91.33
+63038,MO,St Louis County,38.57,-90.63
+63038,MO,St Louis County,38.57,-90.63
+63039,MO,Franklin County,38.49,-90.81
+63039,MO,Franklin County,38.49,-90.81
+63039,MO,Franklin County,38.49,-90.81
+63040,MO,St Louis County,38.57,-90.65
+63040,MO,St Louis County,38.57,-90.65
+63041,MO,Franklin County,38.28,-90.75
+63041,MO,Franklin County,38.28,-90.75
+63041,MO,Franklin County,38.28,-90.75
+63042,MO,St Louis County,38.77,-90.35
+63042,MO,St Louis County,38.77,-90.35
+63043,MO,St Louis County,38.72,-90.47
+63043,MO,St Louis County,38.72,-90.47
+63044,MO,St Louis County,38.76,-90.42
+63044,MO,St Louis County,38.76,-90.42
+63045,MO,St Louis County,38.77,-90.46
+63045,MO,St Louis County,38.77,-90.46
+63047,MO,Jefferson County,38.2,-90.48
+63047,MO,Jefferson County,38.2,-90.48
+63048,MO,Jefferson County,38.25,-90.38
+63048,MO,Jefferson County,38.25,-90.38
+63049,MO,Jefferson County,38.46,-90.53
+63049,MO,Jefferson County,38.46,-90.53
+63050,MO,Jefferson County,38.23,-90.56
+63050,MO,Jefferson County,38.23,-90.56
+63051,MO,Jefferson County,38.41,-90.56
+63051,MO,Jefferson County,38.41,-90.56
+63052,MO,Jefferson County,38.36,-90.37
+63052,MO,Jefferson County,38.36,-90.37
+63053,MO,Jefferson County,38.36,-90.36
+63053,MO,Jefferson County,38.36,-90.36
+63055,MO,Franklin County,38.53,-90.87
+63055,MO,Franklin County,38.53,-90.87
+63055,MO,Franklin County,38.53,-90.87
+63056,MO,Franklin County,38.41,-91.23
+63056,MO,Franklin County,38.41,-91.23
+63056,MO,Franklin County,38.41,-91.23
+63057,MO,Jefferson County,38.33,-90.43
+63057,MO,Jefferson County,38.33,-90.43
+63060,MO,Franklin County,38.3,-90.82
+63060,MO,Franklin County,38.3,-90.82
+63060,MO,Franklin County,38.3,-90.82
+63061,MO,Franklin County,38.26,-90.79
+63061,MO,Franklin County,38.26,-90.79
+63061,MO,Franklin County,38.26,-90.79
+63065,MO,Jefferson County,38.24,-90.48
+63065,MO,Jefferson County,38.24,-90.48
+63066,MO,Jefferson County,38.27,-90.65
+63066,MO,Jefferson County,38.27,-90.65
+63068,MO,Franklin County,38.6,-91.21
+63068,MO,Franklin County,38.6,-91.21
+63068,MO,Franklin County,38.6,-91.21
+63069,MO,Franklin County,38.47,-90.75
+63069,MO,Franklin County,38.47,-90.75
+63069,MO,Franklin County,38.47,-90.75
+63070,MO,Jefferson County,38.28,-90.39
+63070,MO,Jefferson County,38.28,-90.39
+63071,MO,Washington County,38.16,-90.83
+63071,MO,Washington County,38.16,-90.83
+63072,MO,Franklin County,38.41,-90.81
+63072,MO,Franklin County,38.41,-90.81
+63072,MO,Franklin County,38.41,-90.81
+63073,MO,Franklin County,38.57,-90.77
+63073,MO,Franklin County,38.57,-90.77
+63073,MO,Franklin County,38.57,-90.77
+63074,MO,St Louis County,38.72,-90.38
+63074,MO,St Louis County,38.72,-90.38
+63077,MO,Franklin County,38.35,-90.98
+63077,MO,Franklin County,38.35,-90.98
+63077,MO,Franklin County,38.35,-90.98
+63079,MO,Franklin County,38.27,-91.1
+63079,MO,Franklin County,38.27,-91.1
+63079,MO,Franklin County,38.27,-91.1
+63080,MO,Crawford County,38.21,-91.16
+63084,MO,Franklin County,38.44,-91.01
+63084,MO,Franklin County,38.44,-91.01
+63084,MO,Franklin County,38.44,-91.01
+63087,MO,St Francois County,38,-90.45
+63087,MO,St Francois County,38,-90.45
+63088,MO,St Louis County,38.55,-90.48
+63088,MO,St Louis County,38.55,-90.48
+63089,MO,Franklin County,38.47,-90.88
+63089,MO,Franklin County,38.47,-90.88
+63089,MO,Franklin County,38.47,-90.88
+63090,MO,Franklin County,38.55,-91.01
+63090,MO,Franklin County,38.55,-91.01
+63090,MO,Franklin County,38.55,-91.01
+63091,MO,Gasconade County,38.38,-91.4
+63101,MO,St Louis City,38.63,-90.24
+63101,MO,St Louis City,38.63,-90.24
+63102,MO,St Louis City,38.63,-90.24
+63102,MO,St Louis City,38.63,-90.24
+63103,MO,St Louis City,38.63,-90.24
+63103,MO,St Louis City,38.63,-90.24
+63104,MO,St Louis City,38.63,-90.24
+63104,MO,St Louis City,38.63,-90.24
+63105,MO,St Louis County,38.63,-90.24
+63105,MO,St Louis County,38.63,-90.24
+63106,MO,St Louis City,38.63,-90.24
+63106,MO,St Louis City,38.63,-90.24
+63107,MO,St Louis City,38.63,-90.24
+63107,MO,St Louis City,38.63,-90.24
+63108,MO,St Louis City,38.63,-90.24
+63108,MO,St Louis City,38.63,-90.24
+63109,MO,St Louis City,38.63,-90.24
+63109,MO,St Louis City,38.63,-90.24
+63110,MO,St Louis City,38.63,-90.24
+63110,MO,St Louis City,38.63,-90.24
+63111,MO,St Louis City,38.63,-90.24
+63111,MO,St Louis City,38.63,-90.24
+63112,MO,St Louis City,38.63,-90.24
+63112,MO,St Louis City,38.63,-90.24
+63113,MO,St Louis City,38.63,-90.24
+63113,MO,St Louis City,38.63,-90.24
+63114,MO,St Louis County,38.63,-90.24
+63114,MO,St Louis County,38.63,-90.24
+63115,MO,St Louis City,38.63,-90.24
+63115,MO,St Louis City,38.63,-90.24
+63116,MO,St Louis City,38.63,-90.24
+63116,MO,St Louis City,38.63,-90.24
+63117,MO,St Louis County,38.63,-90.24
+63117,MO,St Louis County,38.63,-90.24
+63118,MO,St Louis City,38.63,-90.24
+63118,MO,St Louis City,38.63,-90.24
+63119,MO,St Louis County,38.63,-90.24
+63119,MO,St Louis County,38.63,-90.24
+63120,MO,St Louis City,38.63,-90.24
+63120,MO,St Louis City,38.63,-90.24
+63121,MO,St Louis County,38.63,-90.24
+63121,MO,St Louis County,38.63,-90.24
+63122,MO,St Louis County,38.63,-90.24
+63122,MO,St Louis County,38.63,-90.24
+63123,MO,St Louis County,38.63,-90.24
+63123,MO,St Louis County,38.63,-90.24
+63124,MO,St Louis County,38.63,-90.24
+63124,MO,St Louis County,38.63,-90.24
+63125,MO,St Louis County,38.63,-90.24
+63125,MO,St Louis County,38.63,-90.24
+63126,MO,St Louis County,38.63,-90.24
+63126,MO,St Louis County,38.63,-90.24
+63127,MO,St Louis County,38.63,-90.24
+63127,MO,St Louis County,38.63,-90.24
+63128,MO,St Louis County,38.63,-90.24
+63128,MO,St Louis County,38.63,-90.24
+63129,MO,St Louis County,38.63,-90.24
+63129,MO,St Louis County,38.63,-90.24
+63130,MO,St Louis County,38.63,-90.24
+63130,MO,St Louis County,38.63,-90.24
+63131,MO,St Louis County,38.63,-90.24
+63131,MO,St Louis County,38.63,-90.24
+63132,MO,St Louis County,38.63,-90.24
+63132,MO,St Louis County,38.63,-90.24
+63133,MO,St Louis County,38.63,-90.24
+63133,MO,St Louis County,38.63,-90.24
+63134,MO,St Louis County,38.63,-90.24
+63134,MO,St Louis County,38.63,-90.24
+63135,MO,St Louis County,38.63,-90.24
+63135,MO,St Louis County,38.63,-90.24
+63136,MO,St Louis County,38.63,-90.24
+63136,MO,St Louis County,38.63,-90.24
+63137,MO,St Louis County,38.63,-90.24
+63137,MO,St Louis County,38.63,-90.24
+63138,MO,St Louis County,38.63,-90.24
+63138,MO,St Louis County,38.63,-90.24
+63139,MO,St Louis City,38.63,-90.24
+63139,MO,St Louis City,38.63,-90.24
+63140,MO,St Louis County,38.63,-90.24
+63140,MO,St Louis County,38.63,-90.24
+63141,MO,St Louis County,38.63,-90.24
+63141,MO,St Louis County,38.63,-90.24
+63143,MO,St Louis County,38.63,-90.24
+63143,MO,St Louis County,38.63,-90.24
+63144,MO,St Louis County,38.63,-90.24
+63144,MO,St Louis County,38.63,-90.24
+63145,MO,St Louis County,38.63,-90.24
+63145,MO,St Louis County,38.63,-90.24
+63146,MO,St Louis County,38.63,-90.24
+63146,MO,St Louis County,38.63,-90.24
+63147,MO,St Louis City,38.63,-90.24
+63147,MO,St Louis City,38.63,-90.24
+63301,MO,St Charles County,38.79,-90.51
+63301,MO,St Charles County,38.79,-90.51
+63303,MO,St Charles County,38.79,-90.51
+63303,MO,St Charles County,38.79,-90.51
+63304,MO,St Charles County,38.79,-90.51
+63304,MO,St Charles County,38.79,-90.51
+63330,MO,Pike County,39.26,-90.82
+63332,MO,St Charles County,38.57,-90.88
+63332,MO,St Charles County,38.57,-90.88
+63333,MO,Montgomery County,39,-91.35
+63334,MO,Pike County,39.33,-91.19
+63336,MO,Pike County,39.37,-90.9
+63339,MO,Pike County,39.34,-91.34
+63341,MO,St Charles County,38.63,-90.78
+63341,MO,St Charles County,38.63,-90.78
+63342,MO,Warren County,38.6,-90.99
+63342,MO,Warren County,38.6,-90.99
+63343,MO,Lincoln County,39.17,-90.78
+63343,MO,Lincoln County,39.17,-90.78
+63344,MO,Pike County,39.23,-91.01
+63345,MO,Audrain County,39.27,-91.57
+63347,MO,Lincoln County,39.04,-90.74
+63347,MO,Lincoln County,39.04,-90.74
+63348,MO,St Charles County,38.81,-90.96
+63348,MO,St Charles County,38.81,-90.96
+63349,MO,Lincoln County,38.97,-91.13
+63349,MO,Lincoln County,38.97,-91.13
+63350,MO,Montgomery County,38.87,-91.37
+63351,MO,Montgomery County,38.85,-91.3
+63352,MO,Audrain County,39.24,-91.64
+63353,MO,Pike County,39.44,-91.05
+63357,MO,Warren County,38.62,-91.05
+63357,MO,Warren County,38.62,-91.05
+63359,MO,Montgomery County,39.12,-91.41
+63361,MO,Montgomery County,38.97,-91.5
+63362,MO,Lincoln County,38.94,-90.91
+63362,MO,Lincoln County,38.94,-90.91
+63363,MO,Montgomery County,38.9,-91.44
+63366,MO,St Charles County,38.78,-90.7
+63366,MO,St Charles County,38.78,-90.7
+63367,MO,St Charles County,38.78,-90.78
+63367,MO,St Charles County,38.78,-90.78
+63368,MO,St Charles County,38.78,-90.7
+63368,MO,St Charles County,38.78,-90.7
+63369,MO,Lincoln County,38.93,-90.74
+63369,MO,Lincoln County,38.93,-90.74
+63370,MO,Lincoln County,39.08,-91.24
+63370,MO,Lincoln County,39.08,-91.24
+63373,MO,St Charles County,38.92,-90.34
+63373,MO,St Charles County,38.92,-90.34
+63376,MO,St Charles County,38.77,-90.6
+63376,MO,St Charles County,38.77,-90.6
+63377,MO,Lincoln County,39.12,-91.05
+63377,MO,Lincoln County,39.12,-91.05
+63378,MO,Warren County,38.64,-91.18
+63378,MO,Warren County,38.64,-91.18
+63379,MO,Lincoln County,38.97,-90.98
+63379,MO,Lincoln County,38.97,-90.98
+63381,MO,Warren County,39,-91.24
+63381,MO,Warren County,39,-91.24
+63382,MO,Audrain County,39.3,-91.49
+63383,MO,Warren County,38.82,-91.14
+63383,MO,Warren County,38.82,-91.14
+63384,MO,Montgomery County,39.07,-91.56
+63385,MO,St Charles County,38.81,-90.85
+63385,MO,St Charles County,38.81,-90.85
+63386,MO,St Charles County,38.86,-90.22
+63386,MO,St Charles County,38.86,-90.22
+63387,MO,Lincoln County,39.18,-91.01
+63387,MO,Lincoln County,39.18,-91.01
+63388,MO,Callaway County,38.91,-91.7
+63389,MO,Lincoln County,38.99,-90.73
+63389,MO,Lincoln County,38.99,-90.73
+63390,MO,Warren County,38.82,-91.02
+63390,MO,Warren County,38.82,-91.02
+63401,MO,Marion County,39.7,-91.38
+63430,MO,Clark County,40.35,-91.45
+63431,MO,Macon County,39.75,-92.35
+63432,MO,Scotland County,40.46,-92.01
+63433,MO,Pike County,39.54,-91.17
+63434,MO,Shelby County,39.87,-92.02
+63435,MO,Lewis County,40.12,-91.52
+63436,MO,Ralls County,39.5,-91.52
+63437,MO,Shelby County,39.74,-92.26
+63438,MO,Lewis County,39.95,-91.67
+63439,MO,Shelby County,39.79,-91.86
+63440,MO,Lewis County,40,-91.71
+63441,MO,Pike County,39.49,-91.32
+63442,MO,Scotland County,40.46,-91.97
+63443,MO,Shelby County,39.66,-91.85
+63445,MO,Clark County,40.42,-91.71
+63446,MO,Knox County,40.14,-92.01
+63447,MO,Lewis County,40.11,-91.91
+63448,MO,Lewis County,40.03,-91.52
+63450,MO,Shelby County,39.72,-92.14
+63451,MO,Shelby County,39.89,-92.18
+63452,MO,Lewis County,40.08,-91.81
+63453,MO,Clark County,40.45,-91.88
+63454,MO,Marion County,39.95,-91.6
+63456,MO,Ralls County,39.65,-91.73
+63457,MO,Lewis County,40.11,-91.71
+63458,MO,Knox County,39.99,-91.97
+63459,MO,Ralls County,39.58,-91.39
+63460,MO,Knox County,40.01,-92.2
+63461,MO,Marion County,39.79,-91.52
+63462,MO,Ralls County,39.43,-91.66
+63463,MO,Marion County,39.83,-91.73
+63464,MO,Knox County,39.97,-92.08
+63465,MO,Clark County,40.49,-91.67
+63466,MO,Clark County,40.31,-91.66
+63467,MO,Ralls County,39.64,-91.26
+63468,MO,Shelby County,39.69,-92.03
+63469,MO,Shelby County,39.8,-92.03
+63471,MO,Marion County,39.93,-91.52
+63472,MO,Clark County,40.39,-91.58
+63473,MO,Lewis County,40.2,-91.86
+63474,MO,Clark County,40.39,-91.92
+63501,MO,Adair County,40.19,-92.57
+63530,MO,Macon County,39.89,-92.47
+63531,MO,Knox County,40.24,-92.2
+63532,MO,Macon County,39.74,-92.56
+63533,MO,Adair County,40.14,-92.37
+63534,MO,Macon County,39.76,-92.62
+63535,MO,Schuyler County,40.58,-92.63
+63536,MO,Schuyler County,40.48,-92.36
+63537,MO,Knox County,40.16,-92.17
+63538,MO,Macon County,39.95,-92.64
+63539,MO,Macon County,39.89,-92.74
+63540,MO,Adair County,40.09,-92.41
+63541,MO,Schuyler County,40.52,-92.57
+63543,MO,Scotland County,40.35,-92
+63544,MO,Sullivan County,40.26,-92.87
+63545,MO,Sullivan County,40.26,-92.95
+63546,MO,Adair County,40.35,-92.56
+63547,MO,Knox County,40.15,-92.3
+63548,MO,Schuyler County,40.52,-92.53
+63549,MO,Macon County,40.02,-92.49
+63551,MO,Putnam County,40.49,-92.69
+63552,MO,Macon County,39.73,-92.47
+63555,MO,Scotland County,40.46,-92.16
+63556,MO,Sullivan County,40.2,-93.12
+63557,MO,Linn County,39.95,-92.88
+63557,MO,Linn County,39.95,-92.88
+63558,MO,Macon County,39.77,-92.75
+63559,MO,Adair County,40.23,-92.7
+63560,MO,Sullivan County,40.35,-93.08
+63561,MO,Schuyler County,40.41,-92.57
+63563,MO,Scotland County,40.31,-92.08
+63565,MO,Putnam County,40.47,-93
+63566,MO,Sullivan County,40.05,-92.9
+63567,MO,Putnam County,40.4,-92.68
+63601,MO,St Francois County,37.84,-90.52
+63601,MO,St Francois County,37.84,-90.52
+63620,MO,Iron County,37.35,-90.69
+63621,MO,Iron County,37.58,-90.62
+63622,MO,Washington County,37.78,-90.84
+63622,MO,Washington County,37.78,-90.84
+63623,MO,Iron County,37.68,-90.75
+63624,MO,St Francois County,37.76,-90.62
+63624,MO,St Francois County,37.76,-90.62
+63625,MO,Reynolds County,37.53,-90.93
+63626,MO,Washington County,38.04,-90.62
+63626,MO,Washington County,38.04,-90.62
+63628,MO,St Francois County,37.92,-90.54
+63628,MO,St Francois County,37.92,-90.54
+63629,MO,Reynolds County,37.45,-91.21
+63630,MO,Washington County,37.98,-90.68
+63630,MO,Washington County,37.98,-90.68
+63631,MO,Washington County,37.76,-90.77
+63631,MO,Washington County,37.76,-90.77
+63632,MO,Wayne County,37.29,-90.27
+63633,MO,Reynolds County,37.43,-90.96
+63636,MO,Iron County,37.28,-90.63
+63637,MO,St Francois County,37.74,-90.5
+63637,MO,St Francois County,37.74,-90.5
+63638,MO,Reynolds County,37.23,-90.97
+63640,MO,St Francois County,37.78,-90.42
+63640,MO,St Francois County,37.78,-90.42
+63645,MO,Madison County,37.56,-90.29
+63645,MO,Madison County,37.56,-90.29
+63648,MO,Washington County,37.83,-90.67
+63648,MO,Washington County,37.83,-90.67
+63650,MO,Iron County,37.59,-90.63
+63651,MO,St Francois County,37.68,-90.38
+63651,MO,St Francois County,37.68,-90.38
+63653,MO,St Francois County,37.86,-90.58
+63653,MO,St Francois County,37.86,-90.58
+63654,MO,Reynolds County,37.45,-90.82
+63655,MO,Madison County,37.42,-90.16
+63655,MO,Madison County,37.42,-90.16
+63656,MO,Iron County,37.69,-90.68
+63660,MO,Washington County,37.94,-90.72
+63660,MO,Washington County,37.94,-90.72
+63662,MO,Bollinger County,37.41,-90.06
+63663,MO,Iron County,37.62,-90.64
+63664,MO,Washington County,37.93,-90.78
+63664,MO,Washington County,37.93,-90.78
+63665,MO,Reynolds County,37.32,-90.89
+63666,MO,Reynolds County,37.4,-91.06
+63674,MO,Washington County,38.01,-90.75
+63674,MO,Washington County,38.01,-90.75
+63675,MO,Iron County,37.3,-90.66
+63701,MO,Cape Girardeau County,37.3,-89.55
+63702,MO,Cape Girardeau County,37.3,-89.55
+63703,MO,Cape Girardeau County,37.3,-89.55
+63730,MO,Stoddard County,37.1,-89.91
+63732,MO,Perry County,37.63,-89.58
+63735,MO,Stoddard County,37.02,-89.81
+63736,MO,Scott County,37.09,-89.56
+63737,MO,Perry County,37.71,-89.89
+63738,MO,Stoddard County,37.07,-89.96
+63739,MO,Cape Girardeau County,37.35,-89.81
+63740,MO,Scott County,37.18,-89.66
+63742,MO,Scott County,37.15,-89.44
+63743,MO,Cape Girardeau County,37.51,-89.82
+63744,MO,Cape Girardeau County,37.19,-89.73
+63745,MO,Cape Girardeau County,37.25,-89.65
+63746,MO,Perry County,37.71,-89.89
+63747,MO,Cape Girardeau County,37.55,-89.84
+63748,MO,Perry County,37.63,-89.62
+63750,MO,Bollinger County,37.13,-90.19
+63751,MO,Bollinger County,37.31,-90.02
+63752,MO,Cape Girardeau County,37.31,-89.67
+63755,MO,Cape Girardeau County,37.38,-89.65
+63758,MO,Scott County,37.19,-89.55
+63760,MO,Bollinger County,37.26,-89.91
+63763,MO,Wayne County,37.03,-90.18
+63764,MO,Bollinger County,37.3,-89.98
+63766,MO,Cape Girardeau County,37.44,-89.8
+63767,MO,Scott County,37.04,-89.61
+63769,MO,Cape Girardeau County,37.49,-89.72
+63770,MO,Cape Girardeau County,37.59,-89.7
+63771,MO,Scott County,37.08,-89.65
+63774,MO,Scott County,37.09,-89.77
+63775,MO,Perry County,37.72,-89.87
+63776,MO,Perry County,37.71,-89.89
+63779,MO,Cape Girardeau County,37.5,-89.63
+63780,MO,Scott County,37.22,-89.53
+63781,MO,Bollinger County,37.51,-89.9
+63782,MO,Bollinger County,37.06,-90.01
+63783,MO,Perry County,37.61,-89.71
+63784,MO,Scott County,36.99,-89.68
+63785,MO,Cape Girardeau County,37.23,-89.79
+63787,MO,Bollinger County,37.14,-90.08
+63801,MO,Scott County,36.88,-89.58
+63820,MO,Mississippi County,36.82,-89.32
+63821,MO,Dunklin County,36.05,-90.24
+63822,MO,Stoddard County,36.67,-89.97
+63823,MO,Mississippi County,36.9,-89.44
+63824,MO,Scott County,37,-89.52
+63825,MO,Stoddard County,36.88,-89.93
+63826,MO,Pemiscot County,36.17,-89.82
+63827,MO,Pemiscot County,36.26,-89.91
+63828,MO,New Madrid County,36.75,-89.68
+63829,MO,Dunklin County,36.04,-90.29
+63830,MO,Pemiscot County,36.17,-89.66
+63833,MO,Stoddard County,36.61,-89.7
+63834,MO,Mississippi County,36.91,-89.33
+63837,MO,Dunklin County,36.45,-89.96
+63839,MO,Pemiscot County,36.04,-89.8
+63840,MO,Pemiscot County,36.2,-89.88
+63841,MO,Stoddard County,36.79,-89.96
+63845,MO,Mississippi County,36.77,-89.38
+63846,MO,Stoddard County,36.81,-89.86
+63847,MO,Dunklin County,36.45,-90
+63848,MO,New Madrid County,36.45,-89.91
+63849,MO,Dunklin County,36.15,-89.93
+63850,MO,Stoddard County,36.82,-89.78
+63851,MO,Pemiscot County,36.23,-89.74
+63852,MO,Dunklin County,36.4,-90.02
+63853,MO,Pemiscot County,36.05,-89.87
+63855,MO,Dunklin County,36.04,-90.11
+63857,MO,Dunklin County,36.24,-90.04
+63860,MO,New Madrid County,36.67,-89.56
+63862,MO,New Madrid County,36.59,-89.61
+63863,MO,Dunklin County,36.58,-89.97
+63866,MO,New Madrid County,36.51,-89.6
+63867,MO,New Madrid County,36.75,-89.58
+63868,MO,New Madrid County,36.84,-89.69
+63869,MO,New Madrid County,36.58,-89.54
+63870,MO,New Madrid County,36.61,-89.81
+63873,MO,New Madrid County,36.42,-89.69
+63874,MO,New Madrid County,36.55,-89.81
+63875,MO,Dunklin County,36.09,-89.96
+63876,MO,Dunklin County,36.13,-90.16
+63877,MO,Pemiscot County,36.08,-89.84
+63878,MO,New Madrid County,36.5,-89.81
+63879,MO,Pemiscot County,36.35,-89.81
+63880,MO,Dunklin County,36.33,-90.02
+63881,MO,Mississippi County,36.73,-89.21
+63882,MO,Mississippi County,36.91,-89.22
+63901,MO,Butler County,36.76,-90.4
+63902,MO,Butler County,36.76,-90.4
+63931,MO,Ripley County,36.64,-90.96
+63932,MO,Butler County,36.7,-90.23
+63933,MO,Dunklin County,36.49,-90.07
+63934,MO,Wayne County,37.23,-90.36
+63935,MO,Ripley County,36.62,-90.82
+63936,MO,Stoddard County,36.78,-90.09
+63937,MO,Carter County,36.93,-90.74
+63938,MO,Butler County,36.56,-90.26
+63939,MO,Ripley County,36.67,-90.64
+63940,MO,Butler County,36.78,-90.2
+63941,MO,Carter County,36.9,-91.16
+63942,MO,Ripley County,36.56,-91.07
+63943,MO,Carter County,36.82,-90.82
+63944,MO,Wayne County,37.12,-90.44
+63945,MO,Butler County,36.68,-90.57
+63950,MO,Wayne County,37.24,-90.46
+63951,MO,Wayne County,37.13,-90.25
+63952,MO,Wayne County,37.06,-90.68
+63953,MO,Ripley County,36.57,-90.6
+63954,MO,Butler County,36.55,-90.51
+63955,MO,Ripley County,36.58,-90.68
+63956,MO,Wayne County,37.21,-90.57
+63957,MO,Wayne County,37.14,-90.69
+63960,MO,Stoddard County,36.95,-90.15
+63961,MO,Butler County,36.59,-90.24
+63962,MO,Butler County,36.84,-90.28
+63963,MO,Wayne County,37.07,-90.32
+63964,MO,Wayne County,37.2,-90.43
+63965,MO,Carter County,37,-91.01
+63966,MO,Wayne County,36.99,-90.27
+63967,MO,Wayne County,36.97,-90.54
+64001,MO,Lafayette County,39.09,-93.54
+64001,MO,Lafayette County,39.09,-93.54
+64002,MO,Jackson County,38.91,-94.38
+64002,MO,Jackson County,38.91,-94.38
+64011,MO,Lafayette County,39,-94.07
+64011,MO,Lafayette County,39,-94.07
+64012,MO,Cass County,38.81,-94.53
+64012,MO,Cass County,38.81,-94.53
+64013,MO,Jackson County,39.01,-94.28
+64013,MO,Jackson County,39.01,-94.28
+64014,MO,Jackson County,39.01,-94.28
+64014,MO,Jackson County,39.01,-94.28
+64015,MO,Jackson County,39.01,-94.28
+64015,MO,Jackson County,39.01,-94.28
+64016,MO,Jackson County,39.13,-94.19
+64016,MO,Jackson County,39.13,-94.19
+64017,MO,Ray County,39.2,-94.01
+64017,MO,Ray County,39.2,-94.01
+64018,MO,Platte County,39.45,-94.74
+64018,MO,Platte County,39.45,-94.74
+64019,MO,Johnson County,38.74,-93.84
+64019,MO,Johnson County,38.74,-93.84
+64020,MO,Lafayette County,38.98,-93.56
+64020,MO,Lafayette County,38.98,-93.56
+64021,MO,Lafayette County,39.09,-93.63
+64021,MO,Lafayette County,39.09,-93.63
+64022,MO,Lafayette County,39.19,-93.68
+64022,MO,Lafayette County,39.19,-93.68
+64024,MO,Clay County,39.35,-94.23
+64024,MO,Clay County,39.35,-94.23
+64028,MO,Platte County,39.28,-94.82
+64028,MO,Platte County,39.28,-94.82
+64029,MO,Jackson County,39,-94.2
+64029,MO,Jackson County,39,-94.2
+64030,MO,Jackson County,38.88,-94.52
+64030,MO,Jackson County,38.88,-94.52
+64034,MO,Jackson County,38.85,-94.34
+64034,MO,Jackson County,38.85,-94.34
+64035,MO,Ray County,39.26,-93.83
+64035,MO,Ray County,39.26,-93.83
+64036,MO,Ray County,39.23,-93.93
+64036,MO,Ray County,39.23,-93.93
+64037,MO,Lafayette County,39.06,-93.72
+64037,MO,Lafayette County,39.06,-93.72
+64040,MO,Johnson County,38.71,-93.98
+64040,MO,Johnson County,38.71,-93.98
+64048,MO,Clay County,39.45,-94.34
+64048,MO,Clay County,39.45,-94.34
+64050,MO,Jackson County,39.08,-94.35
+64050,MO,Jackson County,39.08,-94.35
+64051,MO,Jackson County,39.08,-94.35
+64051,MO,Jackson County,39.08,-94.35
+64052,MO,Jackson County,39.08,-94.35
+64052,MO,Jackson County,39.08,-94.35
+64053,MO,Jackson County,39.08,-94.35
+64053,MO,Jackson County,39.08,-94.35
+64054,MO,Jackson County,39.08,-94.35
+64054,MO,Jackson County,39.08,-94.35
+64055,MO,Jackson County,39.08,-94.35
+64055,MO,Jackson County,39.08,-94.35
+64056,MO,Jackson County,39.08,-94.35
+64056,MO,Jackson County,39.08,-94.35
+64057,MO,Jackson County,39.08,-94.35
+64057,MO,Jackson County,39.08,-94.35
+64058,MO,Jackson County,39.08,-94.35
+64058,MO,Jackson County,39.08,-94.35
+64060,MO,Clay County,39.36,-94.36
+64060,MO,Clay County,39.36,-94.36
+64061,MO,Johnson County,38.74,-94.06
+64061,MO,Johnson County,38.74,-94.06
+64062,MO,Ray County,39.43,-94.21
+64062,MO,Ray County,39.43,-94.21
+64063,MO,Jackson County,38.91,-94.38
+64063,MO,Jackson County,38.91,-94.38
+64064,MO,Jackson County,38.91,-94.38
+64064,MO,Jackson County,38.91,-94.38
+64065,MO,Jackson County,38.91,-94.38
+64065,MO,Jackson County,38.91,-94.38
+64066,MO,Jackson County,39.13,-94.13
+64066,MO,Jackson County,39.13,-94.13
+64067,MO,Lafayette County,39.18,-93.87
+64067,MO,Lafayette County,39.18,-93.87
+64068,MO,Clay County,39.24,-94.41
+64068,MO,Clay County,39.24,-94.41
+64069,MO,Clay County,39.24,-94.41
+64069,MO,Clay County,39.24,-94.41
+64070,MO,Jackson County,38.87,-94.16
+64070,MO,Jackson County,38.87,-94.16
+64071,MO,Lafayette County,39.05,-93.83
+64071,MO,Lafayette County,39.05,-93.83
+64072,MO,Clay County,39.23,-94.3
+64072,MO,Clay County,39.23,-94.3
+64073,MO,Clay County,39.31,-94.3
+64073,MO,Clay County,39.31,-94.3
+64074,MO,Lafayette County,39.13,-94.08
+64074,MO,Lafayette County,39.13,-94.08
+64075,MO,Jackson County,39,-94.12
+64075,MO,Jackson County,39,-94.12
+64076,MO,Lafayette County,38.99,-93.95
+64076,MO,Lafayette County,38.99,-93.95
+64077,MO,Ray County,39.21,-94.12
+64077,MO,Ray County,39.21,-94.12
+64078,MO,Cass County,38.72,-94.45
+64078,MO,Cass County,38.72,-94.45
+64079,MO,Platte County,39.36,-94.77
+64079,MO,Platte County,39.36,-94.77
+64080,MO,Cass County,38.79,-94.26
+64080,MO,Cass County,38.79,-94.26
+64081,MO,Jackson County,38.91,-94.38
+64081,MO,Jackson County,38.91,-94.38
+64082,MO,Jackson County,38.91,-94.38
+64082,MO,Jackson County,38.91,-94.38
+64083,MO,Cass County,38.81,-94.45
+64083,MO,Cass County,38.81,-94.45
+64084,MO,Ray County,39.34,-94.06
+64084,MO,Ray County,39.34,-94.06
+64085,MO,Ray County,39.27,-93.97
+64085,MO,Ray County,39.27,-93.97
+64086,MO,Jackson County,38.91,-94.38
+64086,MO,Jackson County,38.91,-94.38
+64088,MO,Jackson County,39.17,-94.19
+64088,MO,Jackson County,39.17,-94.19
+64089,MO,Clay County,39.38,-94.57
+64089,MO,Clay County,39.38,-94.57
+64090,MO,Cass County,38.75,-94.16
+64090,MO,Cass County,38.75,-94.16
+64092,MO,Platte County,39.22,-94.79
+64092,MO,Platte County,39.22,-94.79
+64093,MO,Johnson County,38.75,-93.72
+64093,MO,Johnson County,38.75,-93.72
+64096,MO,Lafayette County,39.2,-93.51
+64096,MO,Lafayette County,39.2,-93.51
+64097,MO,Lafayette County,39.13,-93.98
+64097,MO,Lafayette County,39.13,-93.98
+64098,MO,Platte County,39.41,-94.89
+64098,MO,Platte County,39.41,-94.89
+64101,MO,Jackson County,39.09,-94.58
+64101,MO,Jackson County,39.09,-94.58
+64102,MO,Jackson County,39.09,-94.58
+64102,MO,Jackson County,39.09,-94.58
+64105,MO,Jackson County,39.09,-94.58
+64105,MO,Jackson County,39.09,-94.58
+64106,MO,Jackson County,39.09,-94.58
+64106,MO,Jackson County,39.09,-94.58
+64108,MO,Jackson County,39.09,-94.58
+64108,MO,Jackson County,39.09,-94.58
+64109,MO,Jackson County,39.09,-94.58
+64109,MO,Jackson County,39.09,-94.58
+64110,MO,Jackson County,39.09,-94.58
+64110,MO,Jackson County,39.09,-94.58
+64111,MO,Jackson County,39.09,-94.58
+64111,MO,Jackson County,39.09,-94.58
+64112,MO,Jackson County,39.09,-94.58
+64112,MO,Jackson County,39.09,-94.58
+64113,MO,Jackson County,39.09,-94.58
+64113,MO,Jackson County,39.09,-94.58
+64114,MO,Jackson County,39.09,-94.58
+64114,MO,Jackson County,39.09,-94.58
+64116,MO,Clay County,39.09,-94.58
+64116,MO,Clay County,39.09,-94.58
+64117,MO,Clay County,39.09,-94.58
+64117,MO,Clay County,39.09,-94.58
+64118,MO,Clay County,39.09,-94.58
+64118,MO,Clay County,39.09,-94.58
+64119,MO,Clay County,39.09,-94.58
+64119,MO,Clay County,39.09,-94.58
+64120,MO,Jackson County,39.09,-94.58
+64120,MO,Jackson County,39.09,-94.58
+64121,MO,Jackson County,39.09,-94.58
+64121,MO,Jackson County,39.09,-94.58
+64123,MO,Jackson County,39.09,-94.58
+64123,MO,Jackson County,39.09,-94.58
+64124,MO,Jackson County,39.09,-94.58
+64124,MO,Jackson County,39.09,-94.58
+64125,MO,Jackson County,39.09,-94.58
+64125,MO,Jackson County,39.09,-94.58
+64126,MO,Jackson County,39.09,-94.58
+64126,MO,Jackson County,39.09,-94.58
+64127,MO,Jackson County,39.09,-94.58
+64127,MO,Jackson County,39.09,-94.58
+64128,MO,Jackson County,39.09,-94.58
+64128,MO,Jackson County,39.09,-94.58
+64129,MO,Jackson County,39.09,-94.58
+64129,MO,Jackson County,39.09,-94.58
+64130,MO,Jackson County,39.09,-94.58
+64130,MO,Jackson County,39.09,-94.58
+64131,MO,Jackson County,39.09,-94.58
+64131,MO,Jackson County,39.09,-94.58
+64132,MO,Jackson County,39.09,-94.58
+64132,MO,Jackson County,39.09,-94.58
+64133,MO,Jackson County,39.09,-94.58
+64133,MO,Jackson County,39.09,-94.58
+64134,MO,Jackson County,39.09,-94.58
+64134,MO,Jackson County,39.09,-94.58
+64136,MO,Jackson County,39.09,-94.58
+64136,MO,Jackson County,39.09,-94.58
+64137,MO,Jackson County,39.09,-94.58
+64137,MO,Jackson County,39.09,-94.58
+64138,MO,Jackson County,39.09,-94.58
+64138,MO,Jackson County,39.09,-94.58
+64139,MO,Jackson County,39.09,-94.58
+64139,MO,Jackson County,39.09,-94.58
+64141,MO,Jackson County,39.09,-94.58
+64141,MO,Jackson County,39.09,-94.58
+64144,MO,Jackson County,39.09,-94.58
+64144,MO,Jackson County,39.09,-94.58
+64145,MO,Jackson County,39.09,-94.58
+64145,MO,Jackson County,39.09,-94.58
+64146,MO,Jackson County,39.09,-94.58
+64146,MO,Jackson County,39.09,-94.58
+64147,MO,Jackson County,39.09,-94.58
+64147,MO,Jackson County,39.09,-94.58
+64148,MO,Jackson County,39.09,-94.58
+64148,MO,Jackson County,39.09,-94.58
+64149,MO,Jackson County,39.09,-94.58
+64149,MO,Jackson County,39.09,-94.58
+64150,MO,Platte County,39.09,-94.58
+64150,MO,Platte County,39.09,-94.58
+64151,MO,Platte County,39.09,-94.58
+64151,MO,Platte County,39.09,-94.58
+64152,MO,Platte County,39.09,-94.58
+64152,MO,Platte County,39.09,-94.58
+64153,MO,Platte County,39.09,-94.58
+64153,MO,Platte County,39.09,-94.58
+64154,MO,Platte County,39.09,-94.58
+64154,MO,Platte County,39.09,-94.58
+64155,MO,Clay County,39.09,-94.58
+64155,MO,Clay County,39.09,-94.58
+64156,MO,Clay County,39.09,-94.58
+64156,MO,Clay County,39.09,-94.58
+64157,MO,Clay County,39.09,-94.58
+64157,MO,Clay County,39.09,-94.58
+64158,MO,Clay County,39.09,-94.58
+64158,MO,Clay County,39.09,-94.58
+64161,MO,Clay County,39.09,-94.58
+64161,MO,Clay County,39.09,-94.58
+64163,MO,Platte County,39.09,-94.58
+64163,MO,Platte County,39.09,-94.58
+64164,MO,Platte County,39.09,-94.58
+64164,MO,Platte County,39.09,-94.58
+64165,MO,Clay County,39.09,-94.58
+64165,MO,Clay County,39.09,-94.58
+64166,MO,Clay County,39.09,-94.58
+64166,MO,Clay County,39.09,-94.58
+64167,MO,Clay County,39.09,-94.58
+64167,MO,Clay County,39.09,-94.58
+64168,MO,Jackson County,39.09,-94.58
+64168,MO,Jackson County,39.09,-94.58
+64170,MO,Jackson County,39.09,-94.58
+64170,MO,Jackson County,39.09,-94.58
+64171,MO,Jackson County,39.09,-94.58
+64171,MO,Jackson County,39.09,-94.58
+64172,MO,Jackson County,39.09,-94.57
+64172,MO,Jackson County,39.09,-94.57
+64179,MO,Jackson County,39.09,-94.58
+64179,MO,Jackson County,39.09,-94.58
+64180,MO,Jackson County,39.09,-94.58
+64180,MO,Jackson County,39.09,-94.58
+64183,MO,Jackson County,39.09,-94.57
+64183,MO,Jackson County,39.09,-94.57
+64184,MO,Jackson County,39.09,-94.58
+64184,MO,Jackson County,39.09,-94.58
+64185,MO,Jackson County,39.08,-94.58
+64185,MO,Jackson County,39.08,-94.58
+64187,MO,Jackson County,39.09,-94.58
+64187,MO,Jackson County,39.09,-94.58
+64188,MO,Jackson County,39.09,-94.58
+64188,MO,Jackson County,39.09,-94.58
+64190,MO,Jackson County,39.09,-94.58
+64190,MO,Jackson County,39.09,-94.58
+64191,MO,Jackson County,39.09,-94.58
+64191,MO,Jackson County,39.09,-94.58
+64192,MO,Jackson County,38.95,-94.52
+64192,MO,Jackson County,38.95,-94.52
+64193,MO,Jackson County,39.08,-94.58
+64193,MO,Jackson County,39.08,-94.58
+64194,MO,Jackson County,39.08,-94.58
+64194,MO,Jackson County,39.08,-94.58
+64195,MO,Jackson County,39.09,-94.58
+64195,MO,Jackson County,39.09,-94.58
+64196,MO,Jackson County,39.09,-94.58
+64196,MO,Jackson County,39.09,-94.58
+64197,MO,Jackson County,39.09,-94.58
+64197,MO,Jackson County,39.09,-94.58
+64198,MO,Jackson County,39.09,-94.58
+64198,MO,Jackson County,39.09,-94.58
+64199,MO,Jackson County,39.09,-94.58
+64199,MO,Jackson County,39.09,-94.58
+64401,MO,Buchanan County,39.65,-94.74
+64402,MO,Gentry County,40.24,-94.33
+64420,MO,Worth County,40.48,-94.28
+64421,MO,Andrew County,39.88,-94.89
+64423,MO,Nodaway County,40.17,-94.82
+64424,MO,Harrison County,40.26,-94.02
+64426,MO,Harrison County,40.47,-93.92
+64427,MO,Andrew County,40.11,-94.82
+64428,MO,Nodaway County,40.45,-95.06
+64429,MO,Clinton County,39.74,-94.23
+64429,MO,Clinton County,39.74,-94.23
+64429,MO,Clinton County,39.74,-94.23
+64431,MO,Nodaway County,40.5,-95.03
+64432,MO,Nodaway County,40.26,-94.67
+64433,MO,Nodaway County,40.25,-94.68
+64434,MO,Nodaway County,40.26,-94.69
+64436,MO,Andrew County,39.86,-94.67
+64437,MO,Holt County,40.19,-95.37
+64438,MO,Gentry County,40.19,-94.4
+64439,MO,Platte County,39.52,-94.77
+64439,MO,Platte County,39.52,-94.77
+64440,MO,Buchanan County,39.58,-94.92
+64441,MO,Worth County,40.39,-94.32
+64442,MO,Harrison County,40.46,-93.98
+64443,MO,Buchanan County,39.72,-94.63
+64444,MO,Platte County,39.5,-94.63
+64444,MO,Platte County,39.5,-94.63
+64445,MO,Nodaway County,40.51,-95.11
+64446,MO,Atchison County,40.33,-95.39
+64448,MO,Buchanan County,39.6,-94.81
+64449,MO,Andrew County,40.02,-94.97
+64451,MO,Holt County,39.98,-95.18
+64453,MO,Gentry County,40.33,-94.42
+64454,MO,Clinton County,39.61,-94.59
+64454,MO,Clinton County,39.61,-94.59
+64454,MO,Clinton County,39.61,-94.59
+64455,MO,Nodaway County,40.2,-95.03
+64456,MO,Worth County,40.48,-94.41
+64457,MO,Nodaway County,40.16,-94.73
+64458,MO,Harrison County,40.53,-94.15
+64459,MO,Andrew County,39.93,-94.69
+64461,MO,Nodaway County,40.55,-94.81
+64463,MO,Gentry County,40.05,-94.52
+64465,MO,Clinton County,39.54,-94.32
+64465,MO,Clinton County,39.54,-94.32
+64465,MO,Clinton County,39.54,-94.32
+64466,MO,Holt County,40.2,-95.07
+64467,MO,Harrison County,40.38,-94.15
+64468,MO,Nodaway County,40.34,-94.87
+64470,MO,Holt County,40.13,-95.23
+64471,MO,Harrison County,40.26,-94.19
+64473,MO,Holt County,39.98,-95.14
+64475,MO,Nodaway County,40.44,-94.62
+64476,MO,Nodaway County,40.45,-94.84
+64477,MO,Clinton County,39.56,-94.46
+64477,MO,Clinton County,39.56,-94.46
+64477,MO,Clinton County,39.56,-94.46
+64479,MO,Nodaway County,40.35,-94.67
+64480,MO,Andrew County,40.06,-94.76
+64481,MO,Harrison County,40.37,-93.93
+64482,MO,Atchison County,40.41,-95.51
+64483,MO,Andrew County,40.04,-94.82
+64484,MO,Buchanan County,39.58,-95.02
+64485,MO,Andrew County,39.93,-94.82
+64486,MO,Worth County,40.51,-94.61
+64487,MO,Nodaway County,40.28,-95.07
+64489,MO,Gentry County,40.21,-94.53
+64491,MO,Atchison County,40.44,-95.38
+64492,MO,Clinton County,39.47,-94.56
+64492,MO,Clinton County,39.47,-94.56
+64492,MO,Clinton County,39.47,-94.56
+64493,MO,Clinton County,39.63,-94.32
+64493,MO,Clinton County,39.63,-94.32
+64493,MO,Clinton County,39.63,-94.32
+64496,MO,Atchison County,40.48,-95.62
+64498,MO,Atchison County,40.53,-95.32
+64499,MO,Worth County,40.4,-94.44
+64501,MO,Buchanan County,39.76,-94.85
+64502,MO,Buchanan County,39.76,-94.85
+64503,MO,Buchanan County,39.76,-94.85
+64504,MO,Buchanan County,39.76,-94.85
+64505,MO,Buchanan County,39.76,-94.85
+64506,MO,Buchanan County,39.76,-94.85
+64507,MO,Buchanan County,39.76,-94.85
+64508,MO,Buchanan County,39.76,-94.85
+64601,MO,Livingston County,39.79,-93.55
+64620,MO,Daviess County,39.88,-94.08
+64622,MO,Carroll County,39.45,-93.52
+64623,MO,Carroll County,39.46,-93.33
+64624,MO,Caldwell County,39.59,-93.79
+64624,MO,Caldwell County,39.59,-93.79
+64625,MO,Caldwell County,39.76,-93.8
+64625,MO,Caldwell County,39.76,-93.8
+64628,MO,Linn County,39.78,-93.07
+64628,MO,Linn County,39.78,-93.07
+64630,MO,Linn County,40.03,-93.16
+64630,MO,Linn County,40.03,-93.16
+64631,MO,Linn County,39.78,-92.88
+64631,MO,Linn County,39.78,-92.88
+64632,MO,Mercer County,40.44,-93.77
+64633,MO,Carroll County,39.36,-93.49
+64635,MO,Livingston County,39.92,-93.47
+64636,MO,Daviess County,40.1,-94
+64637,MO,Caldwell County,39.56,-93.92
+64637,MO,Caldwell County,39.56,-93.92
+64638,MO,Livingston County,39.66,-93.63
+64639,MO,Carroll County,39.38,-93.22
+64640,MO,Daviess County,39.91,-93.96
+64641,MO,Grundy County,40.12,-93.38
+64642,MO,Harrison County,40.13,-93.87
+64643,MO,Carroll County,39.6,-93.34
+64644,MO,Caldwell County,39.74,-94
+64644,MO,Caldwell County,39.74,-94
+64645,MO,Sullivan County,40.3,-93.35
+64646,MO,Sullivan County,40.12,-93.31
+64647,MO,Daviess County,40,-93.98
+64648,MO,Daviess County,39.97,-93.8
+64649,MO,Caldwell County,39.78,-94.1
+64649,MO,Caldwell County,39.78,-94.1
+64650,MO,Caldwell County,39.64,-94.03
+64650,MO,Caldwell County,39.64,-94.03
+64651,MO,Linn County,39.78,-93.16
+64651,MO,Linn County,39.78,-93.16
+64652,MO,Grundy County,40.02,-93.44
+64653,MO,Linn County,39.87,-93.18
+64653,MO,Linn County,39.87,-93.18
+64654,MO,Daviess County,39.84,-93.77
+64655,MO,Putnam County,40.46,-93.29
+64656,MO,Livingston County,39.65,-93.7
+64657,MO,Gentry County,40.11,-94.22
+64658,MO,Linn County,39.71,-92.94
+64658,MO,Linn County,39.71,-92.94
+64659,MO,Linn County,39.78,-93.3
+64659,MO,Linn County,39.78,-93.3
+64660,MO,Chariton County,39.59,-93.13
+64661,MO,Mercer County,40.51,-93.52
+64664,MO,Livingston County,39.74,-93.72
+64667,MO,Sullivan County,40.37,-93.33
+64668,MO,Carroll County,39.3,-93.67
+64670,MO,Daviess County,40.04,-94.13
+64671,MO,Caldwell County,39.55,-94.04
+64671,MO,Caldwell County,39.55,-94.04
+64672,MO,Putnam County,40.54,-93.3
+64673,MO,Mercer County,40.39,-93.58
+64674,MO,Linn County,39.95,-93.16
+64674,MO,Linn County,39.95,-93.16
+64676,MO,Chariton County,39.65,-93.06
+64679,MO,Grundy County,40.24,-93.59
+64680,MO,Carroll County,39.41,-93.76
+64681,MO,Chariton County,39.65,-93.24
+64682,MO,Carroll County,39.53,-93.44
+64683,MO,Grundy County,40.08,-93.6
+64686,MO,Livingston County,39.74,-93.62
+64688,MO,Livingston County,39.78,-93.38
+64689,MO,Daviess County,39.86,-94.14
+64701,MO,Cass County,38.65,-94.34
+64701,MO,Cass County,38.65,-94.34
+64720,MO,Bates County,38.39,-94.35
+64720,MO,Bates County,38.39,-94.35
+64722,MO,Bates County,38.25,-94.58
+64722,MO,Bates County,38.25,-94.58
+64723,MO,Bates County,38.34,-94.58
+64723,MO,Bates County,38.34,-94.58
+64724,MO,St Clair County,38.19,-94.03
+64724,MO,St Clair County,38.19,-94.03
+64725,MO,Cass County,38.48,-94.34
+64725,MO,Cass County,38.48,-94.34
+64726,MO,Henry County,38.55,-93.95
+64728,MO,Vernon County,37.69,-94.46
+64730,MO,Bates County,38.25,-94.33
+64730,MO,Bates County,38.25,-94.33
+64733,MO,Johnson County,38.58,-93.85
+64733,MO,Johnson County,38.58,-93.85
+64734,MO,Cass County,38.67,-94.59
+64734,MO,Cass County,38.67,-94.59
+64735,MO,Henry County,38.37,-93.76
+64738,MO,St Clair County,37.89,-93.62
+64738,MO,St Clair County,37.89,-93.62
+64739,MO,Cass County,38.49,-94.07
+64739,MO,Cass County,38.49,-94.07
+64740,MO,Henry County,38.25,-93.77
+64741,MO,Vernon County,37.83,-94.5
+64742,MO,Cass County,38.48,-94.6
+64742,MO,Cass County,38.48,-94.6
+64743,MO,Cass County,38.66,-94.22
+64743,MO,Cass County,38.66,-94.22
+64744,MO,Cedar County,37.86,-94.01
+64745,MO,Bates County,38.16,-94.5
+64745,MO,Bates County,38.16,-94.5
+64746,MO,Cass County,38.61,-94.5
+64746,MO,Cass County,38.61,-94.5
+64747,MO,Cass County,38.56,-94.18
+64747,MO,Cass County,38.56,-94.18
+64748,MO,Barton County,37.39,-94.09
+64750,MO,Vernon County,37.95,-94.15
+64752,MO,Vernon County,38.08,-94.58
+64755,MO,Jasper County,37.33,-94.3
+64756,MO,Cedar County,37.61,-94.01
+64759,MO,Barton County,37.49,-94.27
+64761,MO,Johnson County,38.58,-93.69
+64761,MO,Johnson County,38.58,-93.69
+64762,MO,Barton County,37.55,-94.51
+64763,MO,St Clair County,38.14,-93.72
+64763,MO,St Clair County,38.14,-93.72
+64765,MO,Vernon County,37.99,-94.44
+64766,MO,Barton County,37.58,-94.15
+64767,MO,Vernon County,37.75,-94.3
+64769,MO,Barton County,37.47,-94.58
+64770,MO,Henry County,38.25,-93.98
+64771,MO,Vernon County,37.76,-94.45
+64772,MO,Vernon County,37.84,-94.35
+64776,MO,St Clair County,38.04,-93.69
+64776,MO,St Clair County,38.04,-93.69
+64778,MO,Vernon County,37.9,-94.55
+64779,MO,Bates County,38.09,-94.36
+64779,MO,Bates County,38.09,-94.36
+64780,MO,Bates County,38.07,-94.08
+64780,MO,Bates County,38.07,-94.08
+64781,MO,St Clair County,37.97,-93.81
+64781,MO,St Clair County,37.97,-93.81
+64783,MO,Vernon County,38.01,-94.11
+64784,MO,Vernon County,37.65,-94.29
+64788,MO,Henry County,38.45,-93.99
+64790,MO,Vernon County,37.89,-94.23
+64801,MO,Jasper County,37.08,-94.5
+64802,MO,Jasper County,37.08,-94.5
+64803,MO,Jasper County,37.08,-94.5
+64804,MO,Newton County,37.08,-94.5
+64830,MO,Jasper County,37.23,-94.41
+64831,MO,McDonald County,36.65,-94.44
+64832,MO,Jasper County,37.27,-94.6
+64833,MO,Jasper County,37.19,-94.13
+64834,MO,Jasper County,37.16,-94.54
+64835,MO,Jasper County,37.15,-94.43
+64836,MO,Jasper County,37.16,-94.31
+64840,MO,Newton County,36.99,-94.31
+64841,MO,Jasper County,37.07,-94.41
+64842,MO,Newton County,36.81,-94.08
+64843,MO,McDonald County,36.73,-94.4
+64844,MO,Newton County,36.91,-94.26
+64847,MO,McDonald County,36.6,-94.45
+64848,MO,Lawrence County,37.14,-94.06
+64849,MO,Jasper County,37.25,-94.44
+64850,MO,Newton County,36.84,-94.37
+64853,MO,Newton County,36.87,-94.18
+64854,MO,McDonald County,36.54,-94.48
+64855,MO,Jasper County,37.18,-94.46
+64856,MO,McDonald County,36.59,-94.38
+64857,MO,Jasper County,37.24,-94.43
+64858,MO,Newton County,36.89,-94.52
+64859,MO,Jasper County,37.11,-94.16
+64861,MO,McDonald County,36.74,-94.09
+64862,MO,Jasper County,37.06,-94.12
+64863,MO,McDonald County,36.52,-94.6
+64864,MO,Newton County,37.02,-94.46
+64865,MO,Newton County,36.83,-94.6
+64866,MO,Newton County,36.86,-94.18
+64867,MO,McDonald County,36.76,-94.19
+64868,MO,McDonald County,36.66,-94.61
+64869,MO,Jasper County,37.24,-94.59
+64870,MO,Jasper County,37.14,-94.47
+64873,MO,Newton County,36.99,-94.07
+64874,MO,Barry County,36.76,-94.05
+64944,MO,Jackson County,38.95,-94.57
+64944,MO,Jackson County,38.95,-94.57
+64999,MO,Jackson County,39.09,-94.58
+64999,MO,Jackson County,39.09,-94.58
+65001,MO,Osage County,38.29,-92.02
+65010,MO,Boone County,38.77,-92.25
+65011,MO,Morgan County,38.37,-92.67
+65013,MO,Maries County,38.28,-91.72
+65014,MO,Gasconade County,38.3,-91.63
+65016,MO,Osage County,38.57,-91.96
+65017,MO,Miller County,38.08,-92.48
+65018,MO,Moniteau County,38.63,-92.56
+65020,MO,Camden County,38,-92.74
+65023,MO,Cole County,38.61,-92.4
+65024,MO,Osage County,38.67,-91.77
+65025,MO,Moniteau County,38.66,-92.66
+65026,MO,Miller County,38.35,-92.57
+65032,MO,Cole County,38.35,-92.4
+65034,MO,Moniteau County,38.57,-92.77
+65035,MO,Osage County,38.31,-91.92
+65036,MO,Gasconade County,38.66,-91.56
+65037,MO,Morgan County,38.3,-92.82
+65038,MO,Morgan County,38.2,-92.82
+65039,MO,Boone County,38.69,-92.3
+65040,MO,Cole County,38.37,-92.3
+65041,MO,Gasconade County,38.69,-91.43
+65042,MO,Moniteau County,38.48,-92.58
+65043,MO,Callaway County,38.64,-92.11
+65046,MO,Moniteau County,38.76,-92.47
+65047,MO,Miller County,38.13,-92.58
+65048,MO,Osage County,38.32,-92.04
+65049,MO,Camden County,38.18,-92.62
+65050,MO,Moniteau County,38.56,-92.68
+65051,MO,Osage County,38.48,-91.84
+65052,MO,Camden County,38.04,-92.7
+65053,MO,Cole County,38.54,-92.36
+65054,MO,Osage County,38.5,-91.95
+65055,MO,Moniteau County,38.62,-92.56
+65058,MO,Maries County,38.31,-92.16
+65059,MO,Callaway County,38.67,-91.87
+65061,MO,Osage County,38.67,-91.63
+65062,MO,Gasconade County,38.46,-91.61
+65063,MO,Callaway County,38.71,-92.08
+65064,MO,Miller County,38.41,-92.53
+65065,MO,Camden County,38.13,-92.65
+65066,MO,Gasconade County,38.34,-91.49
+65067,MO,Callaway County,38.71,-91.71
+65068,MO,Cooper County,38.81,-92.58
+65069,MO,Montgomery County,38.71,-91.51
+65072,MO,Morgan County,38.27,-92.71
+65074,MO,Cole County,38.51,-92.43
+65075,MO,Miller County,38.25,-92.26
+65076,MO,Cole County,38.36,-92.21
+65077,MO,Callaway County,38.7,-91.81
+65078,MO,Morgan County,38.44,-92.98
+65079,MO,Camden County,38.17,-92.77
+65080,MO,Callaway County,38.62,-91.96
+65081,MO,Moniteau County,38.65,-92.78
+65082,MO,Miller County,38.23,-92.45
+65083,MO,Miller County,38.15,-92.44
+65084,MO,Morgan County,38.43,-92.84
+65085,MO,Osage County,38.44,-92
+65101,MO,Cole County,38.57,-92.19
+65102,MO,Cole County,38.57,-92.19
+65103,MO,Cole County,38.57,-92.19
+65104,MO,Cole County,38.57,-92.19
+65105,MO,Cole County,38.57,-92.19
+65106,MO,Cole County,38.57,-92.19
+65107,MO,Cole County,38.57,-92.19
+65108,MO,Cole County,38.57,-92.19
+65109,MO,Cole County,38.57,-92.19
+65110,MO,Cole County,38.57,-92.19
+65111,MO,Cole County,38.57,-92.19
+65201,MO,Boone County,38.95,-92.32
+65202,MO,Boone County,38.95,-92.32
+65203,MO,Boone County,38.95,-92.32
+65205,MO,Boone County,38.95,-92.32
+65211,MO,Boone County,38.95,-92.32
+65212,MO,Boone County,38.95,-92.32
+65215,MO,Boone County,38.95,-92.32
+65216,MO,Boone County,38.95,-92.32
+65217,MO,Boone County,38.95,-92.32
+65218,MO,Boone County,38.95,-92.32
+65230,MO,Howard County,39.26,-92.7
+65231,MO,Callaway County,39.01,-91.89
+65232,MO,Audrain County,39.13,-91.76
+65233,MO,Cooper County,38.96,-92.74
+65236,MO,Chariton County,39.42,-93.12
+65237,MO,Cooper County,38.78,-92.79
+65239,MO,Randolph County,39.51,-92.44
+65240,MO,Boone County,39.21,-92.13
+65243,MO,Randolph County,39.28,-92.34
+65244,MO,Randolph County,39.43,-92.66
+65246,MO,Chariton County,39.39,-92.99
+65247,MO,Macon County,39.63,-92.48
+65248,MO,Howard County,39.14,-92.68
+65250,MO,Howard County,39.01,-92.75
+65251,MO,Callaway County,38.85,-91.95
+65254,MO,Howard County,39.22,-92.83
+65255,MO,Boone County,39.11,-92.21
+65256,MO,Boone County,39.14,-92.45
+65257,MO,Randolph County,39.3,-92.51
+65258,MO,Monroe County,39.49,-92.13
+65258,MO,Monroe County,39.49,-92.13
+65259,MO,Randolph County,39.43,-92.54
+65260,MO,Randolph County,39.58,-92.47
+65261,MO,Chariton County,39.43,-92.93
+65262,MO,Callaway County,38.94,-91.93
+65263,MO,Monroe County,39.47,-92.21
+65263,MO,Monroe County,39.47,-92.21
+65264,MO,Audrain County,39.1,-91.64
+65265,MO,Audrain County,39.16,-91.87
+65270,MO,Randolph County,39.41,-92.43
+65274,MO,Howard County,39.01,-92.74
+65275,MO,Monroe County,39.47,-92
+65275,MO,Monroe County,39.47,-92
+65276,MO,Cooper County,38.87,-92.91
+65278,MO,Randolph County,39.34,-92.41
+65279,MO,Boone County,38.97,-92.56
+65280,MO,Audrain County,39.2,-91.72
+65281,MO,Chariton County,39.42,-92.8
+65282,MO,Monroe County,39.36,-91.83
+65282,MO,Monroe County,39.36,-91.83
+65283,MO,Monroe County,39.55,-91.85
+65283,MO,Monroe County,39.55,-91.85
+65284,MO,Boone County,39.23,-92.28
+65285,MO,Audrain County,39.18,-91.98
+65286,MO,Chariton County,39.49,-93.19
+65287,MO,Cooper County,38.9,-92.52
+65299,MO,Boone County,38.9,-92.24
+65301,MO,Pettis County,38.7,-93.23
+65302,MO,Pettis County,38.7,-93.23
+65305,MO,Johnson County,38.73,-93.55
+65305,MO,Johnson County,38.73,-93.55
+65320,MO,Saline County,39.07,-92.94
+65321,MO,Saline County,39.1,-93.48
+65322,MO,Cooper County,38.97,-92.99
+65323,MO,Henry County,38.46,-93.62
+65324,MO,Camden County,38.1,-93.05
+65325,MO,Benton County,38.45,-93.2
+65326,MO,Benton County,38.13,-93.16
+65327,MO,Lafayette County,38.97,-93.49
+65327,MO,Lafayette County,38.97,-93.49
+65329,MO,Morgan County,38.58,-92.97
+65330,MO,Saline County,39.23,-93
+65332,MO,Pettis County,38.62,-93.4
+65333,MO,Pettis County,38.89,-93.35
+65334,MO,Pettis County,38.83,-93.29
+65335,MO,Benton County,38.5,-93.32
+65336,MO,Johnson County,38.76,-93.56
+65336,MO,Johnson County,38.76,-93.56
+65337,MO,Pettis County,38.77,-93.42
+65338,MO,Benton County,38.39,-93.33
+65339,MO,Saline County,39.19,-93.36
+65340,MO,Saline County,39.11,-93.2
+65344,MO,Saline County,39.32,-93.22
+65345,MO,Benton County,38.53,-93.14
+65347,MO,Saline County,38.99,-93.03
+65348,MO,Cooper County,38.7,-93
+65349,MO,Saline County,39.22,-93.06
+65350,MO,Pettis County,38.68,-93.09
+65351,MO,Saline County,38.96,-93.41
+65354,MO,Morgan County,38.66,-92.87
+65355,MO,Benton County,38.24,-93.37
+65360,MO,Henry County,38.53,-93.52
+65401,MO,Phelps County,37.94,-91.76
+65402,MO,Phelps County,37.94,-91.76
+65409,MO,Phelps County,37.94,-91.76
+65436,MO,Phelps County,37.62,-91.91
+65438,MO,Shannon County,36.99,-91.49
+65439,MO,Iron County,37.66,-91.08
+65440,MO,Dent County,37.64,-91.18
+65441,MO,Crawford County,38.15,-91.24
+65443,MO,Maries County,38.12,-92.07
+65444,MO,Texas County,37.34,-92.01
+65446,MO,Crawford County,37.85,-91.28
+65449,MO,Crawford County,37.81,-91.43
+65452,MO,Pulaski County,37.94,-92.26
+65453,MO,Crawford County,38.06,-91.39
+65456,MO,Crawford County,37.8,-91.18
+65457,MO,Pulaski County,37.82,-92.06
+65459,MO,Pulaski County,37.99,-92.09
+65461,MO,Phelps County,37.65,-91.98
+65462,MO,Phelps County,37.7,-91.86
+65463,MO,Laclede County,37.82,-92.74
+65464,MO,Texas County,37.18,-91.99
+65466,MO,Shannon County,37.14,-91.35
+65468,MO,Texas County,37.24,-91.77
+65470,MO,Laclede County,37.6,-92.37
+65473,MO,Pulaski County,37.7,-92.15
+65479,MO,Texas County,37.26,-91.67
+65483,MO,Texas County,37.32,-91.95
+65484,MO,Texas County,37.31,-92.19
+65486,MO,Miller County,38.08,-92.29
+65501,MO,Dent County,37.48,-91.57
+65529,MO,Phelps County,37.92,-91.97
+65532,MO,Dent County,37.78,-91.67
+65534,MO,Pulaski County,37.77,-92.3
+65535,MO,Crawford County,38.09,-91.29
+65536,MO,Laclede County,37.67,-92.66
+65541,MO,Dent County,37.65,-91.76
+65542,MO,Texas County,37.49,-91.86
+65543,MO,Laclede County,37.49,-92.29
+65546,MO,Shannon County,36.98,-91.57
+65548,MO,Howell County,36.99,-91.69
+65550,MO,Phelps County,37.91,-91.9
+65552,MO,Texas County,37.5,-92.22
+65555,MO,Texas County,37.33,-91.83
+65556,MO,Pulaski County,37.86,-92.39
+65557,MO,Texas County,37.51,-92.13
+65559,MO,Phelps County,38,-91.61
+65560,MO,Dent County,37.63,-91.53
+65564,MO,Texas County,37.23,-91.95
+65565,MO,Crawford County,37.96,-91.35
+65566,MO,Iron County,37.71,-91.12
+65567,MO,Camden County,37.81,-92.51
+65570,MO,Texas County,37.44,-92.08
+65571,MO,Texas County,37.17,-91.65
+65580,MO,Maries County,38.11,-91.76
+65582,MO,Maries County,38.18,-91.94
+65583,MO,Pulaski County,37.82,-92.21
+65584,MO,Pulaski County,37.83,-92.12
+65586,MO,Crawford County,37.85,-91.35
+65588,MO,Shannon County,37,-91.33
+65589,MO,Texas County,37.27,-91.84
+65590,MO,Dallas County,37.61,-92.9
+65591,MO,Camden County,37.96,-92.59
+65601,MO,Polk County,37.54,-93.55
+65603,MO,Dade County,37.54,-93.87
+65604,MO,Greene County,37.31,-93.58
+65605,MO,Lawrence County,36.96,-93.72
+65606,MO,Oregon County,36.69,-91.39
+65607,MO,Cedar County,37.79,-93.8
+65608,MO,Douglas County,36.95,-92.66
+65609,MO,Ozark County,36.52,-92.14
+65610,MO,Christian County,37.06,-93.55
+65611,MO,Stone County,36.49,-93.39
+65612,MO,Greene County,37.21,-93.55
+65613,MO,Polk County,37.6,-93.41
+65614,MO,Taney County,36.78,-92.9
+65615,MO,Taney County,36.64,-93.24
+65616,MO,Taney County,36.64,-93.24
+65617,MO,Polk County,37.45,-93.34
+65618,MO,Ozark County,36.75,-92.4
+65619,MO,Greene County,37.12,-93.39
+65620,MO,Christian County,37.01,-92.98
+65622,MO,Dallas County,37.64,-93.09
+65623,MO,Barry County,36.74,-93.9
+65624,MO,Stone County,36.72,-93.51
+65625,MO,Barry County,36.67,-93.86
+65626,MO,Howell County,36.61,-92.1
+65627,MO,Taney County,36.56,-92.99
+65629,MO,Christian County,36.92,-93.05
+65630,MO,Christian County,36.83,-93.25
+65631,MO,Christian County,37.02,-93.47
+65632,MO,Laclede County,37.5,-92.82
+65633,MO,Stone County,36.9,-93.57
+65634,MO,Hickory County,38.02,-93.22
+65635,MO,Dade County,37.47,-93.67
+65636,MO,Webster County,37.17,-92.85
+65637,MO,Ozark County,36.77,-92.21
+65638,MO,Douglas County,36.92,-92.32
+65640,MO,Polk County,37.7,-93.57
+65641,MO,Barry County,36.54,-93.75
+65644,MO,Webster County,37.44,-93.03
+65645,MO,Polk County,37.48,-93.53
+65646,MO,Dade County,37.34,-93.7
+65647,MO,Barry County,36.67,-93.93
+65648,MO,Greene County,37.38,-93.15
+65649,MO,Cedar County,37.63,-93.57
+65650,MO,Polk County,37.8,-93.49
+65652,MO,Webster County,37.15,-92.94
+65653,MO,Taney County,36.68,-93.1
+65654,MO,Lawrence County,37.02,-93.89
+65655,MO,Ozark County,36.6,-92.42
+65656,MO,Stone County,36.8,-93.47
+65657,MO,Christian County,36.83,-93.01
+65658,MO,Barry County,36.52,-93.65
+65660,MO,Wright County,37.31,-92.28
+65661,MO,Dade County,37.41,-93.84
+65662,MO,Wright County,37.39,-92.6
+65663,MO,Polk County,37.61,-93.24
+65664,MO,Lawrence County,37.19,-93.62
+65666,MO,Ozark County,36.58,-92.37
+65667,MO,Wright County,37.25,-92.51
+65668,MO,Hickory County,37.94,-93.32
+65669,MO,Christian County,36.93,-93.28
+65672,MO,Taney County,36.61,-93.22
+65673,MO,Taney County,36.61,-93.22
+65674,MO,Polk County,37.79,-93.57
+65675,MO,Stone County,36.93,-93.49
+65676,MO,Ozark County,36.58,-92.61
+65679,MO,Taney County,36.62,-93.16
+65680,MO,Taney County,36.68,-93.04
+65681,MO,Stone County,36.56,-93.43
+65682,MO,Dade County,37.38,-93.95
+65685,MO,Dallas County,37.75,-93.13
+65686,MO,Stone County,36.64,-93.42
+65688,MO,Howell County,36.65,-91.69
+65689,MO,Texas County,37.12,-92.1
+65690,MO,Oregon County,36.6,-91.38
+65692,MO,Oregon County,36.59,-91.64
+65701,MO,Taney County,36.76,-92.81
+65702,MO,Wright County,37.1,-92.48
+65704,MO,Wright County,37.1,-92.58
+65705,MO,Lawrence County,37,-93.63
+65706,MO,Webster County,37.33,-92.91
+65707,MO,Lawrence County,37.21,-93.84
+65708,MO,Barry County,36.92,-93.92
+65710,MO,Polk County,37.48,-93.42
+65711,MO,Wright County,37.13,-92.26
+65712,MO,Lawrence County,37.1,-93.81
+65713,MO,Webster County,37.38,-92.82
+65714,MO,Christian County,37.04,-93.29
+65715,MO,Ozark County,36.74,-92.56
+65717,MO,Wright County,37.1,-92.41
+65720,MO,Christian County,36.97,-93.03
+65721,MO,Christian County,37.01,-93.2
+65722,MO,Laclede County,37.55,-92.78
+65723,MO,Lawrence County,36.94,-94
+65724,MO,Hickory County,37.83,-93.3
+65725,MO,Polk County,37.46,-93.27
+65726,MO,Taney County,36.58,-93.23
+65727,MO,Polk County,37.72,-93.29
+65728,MO,Stone County,36.87,-93.35
+65729,MO,Ozark County,36.51,-92.6
+65730,MO,McDonald County,36.62,-94.18
+65731,MO,Taney County,36.65,-93.12
+65732,MO,Hickory County,37.94,-93.21
+65733,MO,Taney County,36.52,-92.85
+65734,MO,Barry County,36.81,-93.92
+65735,MO,Hickory County,38,-93.47
+65737,MO,Stone County,36.75,-93.38
+65738,MO,Greene County,37.11,-93.47
+65739,MO,Taney County,36.5,-93.22
+65740,MO,Taney County,36.7,-93.15
+65741,MO,Ozark County,36.78,-92.4
+65742,MO,Greene County,37.11,-93.05
+65744,MO,Taney County,36.6,-92.86
+65745,MO,Barry County,36.52,-93.93
+65746,MO,Webster County,37.14,-92.76
+65747,MO,Barry County,36.63,-93.63
+65752,MO,Dade County,37.37,-93.84
+65753,MO,Christian County,37,-93.08
+65754,MO,Christian County,36.86,-93.29
+65755,MO,Douglas County,36.85,-92.62
+65756,MO,Lawrence County,37.1,-93.94
+65757,MO,Greene County,37.26,-93.11
+65759,MO,Taney County,36.73,-93.03
+65760,MO,Ozark County,36.58,-92.28
+65761,MO,Ozark County,36.57,-92.66
+65762,MO,Ozark County,36.7,-92.65
+65764,MO,Dallas County,37.84,-93.02
+65765,MO,Greene County,37.18,-93.15
+65766,MO,Ozark County,36.54,-92.25
+65767,MO,Dallas County,37.84,-93.16
+65768,MO,Douglas County,36.96,-92.3
+65769,MO,Lawrence County,36.96,-93.79
+65770,MO,Greene County,37.41,-93.54
+65771,MO,Taney County,36.73,-93.19
+65772,MO,Barry County,36.58,-93.96
+65773,MO,Ozark County,36.79,-92.57
+65774,MO,Hickory County,37.89,-93.54
+65775,MO,Howell County,36.74,-91.86
+65776,MO,Howell County,36.62,-91.96
+65777,MO,Howell County,36.52,-91.98
+65778,MO,Oregon County,36.5,-91.26
+65779,MO,Hickory County,37.94,-93.4
+65781,MO,Greene County,37.29,-93.41
+65783,MO,Dallas County,37.7,-92.92
+65784,MO,Ozark County,36.68,-92.33
+65785,MO,Cedar County,37.69,-93.79
+65786,MO,Camden County,37.96,-92.97
+65787,MO,Camden County,37.99,-92.83
+65788,MO,Howell County,36.87,-91.73
+65789,MO,Howell County,36.86,-91.91
+65790,MO,Howell County,36.69,-92.03
+65791,MO,Oregon County,36.52,-91.54
+65793,MO,Howell County,36.99,-91.96
+65801,MO,Greene County,37.19,-93.28
+65802,MO,Greene County,37.19,-93.28
+65803,MO,Greene County,37.19,-93.28
+65804,MO,Greene County,37.19,-93.28
+65805,MO,Greene County,37.19,-93.28
+65806,MO,Greene County,37.19,-93.28
+65807,MO,Greene County,37.19,-93.28
+65808,MO,Greene County,37.19,-93.28
+65809,MO,Greene County,37.19,-93.28
+65810,MO,Greene County,37.19,-93.28
+65814,MO,Greene County,37.19,-93.28
+65817,MO,Greene County,37.19,-93.28
+65890,MO,Greene County,37.19,-93.28
+65897,MO,Greene County,37.19,-93.27
+65898,MO,Greene County,37.19,-93.28
+65899,MO,Greene County,37.19,-93.28
+66002,KS,Atchison County,39.56,-95.13
+66006,KS,Douglas County,38.77,-95.18
+66007,KS,Leavenworth County,39.12,-94.92
+66010,KS,Linn County,38.08,-95
+66010,KS,Linn County,38.08,-95
+66012,KS,Wyandotte County,39.05,-94.88
+66013,KS,Johnson County,38.71,-94.71
+66013,KS,Johnson County,38.71,-94.71
+66014,KS,Linn County,38.21,-95.01
+66014,KS,Linn County,38.21,-95.01
+66016,KS,Atchison County,39.46,-95.25
+66018,KS,Johnson County,38.97,-94.95
+66018,KS,Johnson County,38.97,-94.95
+66019,KS,Johnson County,38.94,-94.95
+66019,KS,Johnson County,38.94,-94.95
+66020,KS,Leavenworth County,39.34,-95.11
+66021,KS,Johnson County,38.76,-95.01
+66021,KS,Johnson County,38.76,-95.01
+66023,KS,Atchison County,39.52,-95.39
+66025,KS,Douglas County,38.93,-95.09
+66026,KS,Miami County,38.42,-94.83
+66027,KS,Leavenworth County,39.36,-94.91
+66030,KS,Johnson County,38.81,-94.92
+66030,KS,Johnson County,38.81,-94.92
+66031,KS,Johnson County,38.84,-94.93
+66031,KS,Johnson County,38.84,-94.93
+66036,KS,Miami County,38.66,-94.85
+66040,KS,Linn County,38.34,-94.76
+66040,KS,Linn County,38.34,-94.76
+66041,KS,Atchison County,39.57,-95.3
+66042,KS,Franklin County,38.44,-95.08
+66042,KS,Franklin County,38.44,-95.08
+66042,KS,Franklin County,38.44,-95.08
+66043,KS,Leavenworth County,39.24,-94.88
+66044,KS,Douglas County,38.96,-95.25
+66045,KS,Douglas County,38.96,-95.25
+66046,KS,Douglas County,38.96,-95.25
+66047,KS,Douglas County,38.96,-95.25
+66048,KS,Leavenworth County,39.32,-94.92
+66049,KS,Douglas County,38.96,-95.25
+66050,KS,Douglas County,39.04,-95.39
+66051,KS,Johnson County,38.88,-94.81
+66051,KS,Johnson County,38.88,-94.81
+66052,KS,Leavenworth County,39,-95.03
+66053,KS,Miami County,38.62,-94.68
+66054,KS,Jefferson County,39.2,-95.22
+66054,KS,Jefferson County,39.2,-95.22
+66056,KS,Linn County,38.14,-94.82
+66056,KS,Linn County,38.14,-94.82
+66058,KS,Atchison County,39.55,-95.52
+66060,KS,Jefferson County,39.41,-95.33
+66060,KS,Jefferson County,39.41,-95.33
+66061,KS,Johnson County,38.88,-94.81
+66061,KS,Johnson County,38.88,-94.81
+66062,KS,Johnson County,38.88,-94.81
+66062,KS,Johnson County,38.88,-94.81
+66063,KS,Johnson County,38.88,-94.81
+66063,KS,Johnson County,38.88,-94.81
+66064,KS,Miami County,38.5,-94.95
+66066,KS,Jefferson County,39.21,-95.31
+66066,KS,Jefferson County,39.21,-95.31
+66067,KS,Franklin County,38.6,-95.26
+66067,KS,Franklin County,38.6,-95.26
+66067,KS,Franklin County,38.6,-95.26
+66070,KS,Jefferson County,39.23,-95.46
+66070,KS,Jefferson County,39.23,-95.46
+66071,KS,Miami County,38.57,-94.86
+66072,KS,Linn County,38.32,-94.99
+66072,KS,Linn County,38.32,-94.99
+66073,KS,Jefferson County,39.07,-95.38
+66073,KS,Jefferson County,39.07,-95.38
+66075,KS,Linn County,38.17,-94.71
+66075,KS,Linn County,38.17,-94.71
+66076,KS,Franklin County,38.61,-95.45
+66076,KS,Franklin County,38.61,-95.45
+66076,KS,Franklin County,38.61,-95.45
+66077,KS,Atchison County,39.42,-95.12
+66078,KS,Franklin County,38.48,-95.27
+66078,KS,Franklin County,38.48,-95.27
+66078,KS,Franklin County,38.48,-95.27
+66079,KS,Franklin County,38.54,-95.1
+66079,KS,Franklin County,38.54,-95.1
+66079,KS,Franklin County,38.54,-95.1
+66080,KS,Franklin County,38.4,-95.25
+66080,KS,Franklin County,38.4,-95.25
+66080,KS,Franklin County,38.4,-95.25
+66083,KS,Johnson County,38.75,-94.82
+66083,KS,Johnson County,38.75,-94.82
+66085,KS,Johnson County,38.78,-94.68
+66085,KS,Johnson County,38.78,-94.68
+66086,KS,Leavenworth County,39.11,-95.08
+66088,KS,Jefferson County,39.34,-95.46
+66088,KS,Jefferson County,39.34,-95.46
+66092,KS,Franklin County,38.71,-95.08
+66092,KS,Franklin County,38.71,-95.08
+66092,KS,Franklin County,38.71,-95.08
+66095,KS,Franklin County,38.48,-95.46
+66095,KS,Franklin County,38.48,-95.46
+66095,KS,Franklin County,38.48,-95.46
+66097,KS,Jefferson County,39.32,-95.26
+66097,KS,Jefferson County,39.32,-95.26
+66101,KS,Wyandotte County,39.1,-94.62
+66102,KS,Wyandotte County,39.1,-94.62
+66103,KS,Wyandotte County,39.1,-94.62
+66104,KS,Wyandotte County,39.1,-94.62
+66105,KS,Wyandotte County,39.1,-94.62
+66106,KS,Wyandotte County,39.1,-94.62
+66109,KS,Wyandotte County,39.1,-94.62
+66110,KS,Wyandotte County,39.1,-94.62
+66111,KS,Wyandotte County,39.1,-94.62
+66112,KS,Wyandotte County,39.1,-94.62
+66113,KS,Wyandotte County,39.07,-94.81
+66115,KS,Wyandotte County,39.1,-94.62
+66117,KS,Wyandotte County,39.1,-94.62
+66118,KS,Wyandotte County,39.1,-94.62
+66119,KS,Wyandotte County,39.1,-94.62
+66160,KS,Wyandotte County,39.1,-94.62
+66201,KS,Johnson County,38.9,-94.68
+66201,KS,Johnson County,38.9,-94.68
+66202,KS,Johnson County,38.9,-94.68
+66202,KS,Johnson County,38.9,-94.68
+66203,KS,Johnson County,38.9,-94.68
+66203,KS,Johnson County,38.9,-94.68
+66204,KS,Johnson County,38.9,-94.68
+66204,KS,Johnson County,38.9,-94.68
+66205,KS,Johnson County,38.9,-94.68
+66205,KS,Johnson County,38.9,-94.68
+66206,KS,Johnson County,38.9,-94.68
+66206,KS,Johnson County,38.9,-94.68
+66207,KS,Johnson County,38.9,-94.68
+66207,KS,Johnson County,38.9,-94.68
+66208,KS,Johnson County,38.9,-94.68
+66208,KS,Johnson County,38.9,-94.68
+66209,KS,Johnson County,38.9,-94.68
+66209,KS,Johnson County,38.9,-94.68
+66210,KS,Johnson County,38.9,-94.68
+66210,KS,Johnson County,38.9,-94.68
+66211,KS,Johnson County,38.9,-94.68
+66211,KS,Johnson County,38.9,-94.68
+66212,KS,Johnson County,38.9,-94.68
+66212,KS,Johnson County,38.9,-94.68
+66213,KS,Johnson County,38.9,-94.68
+66213,KS,Johnson County,38.9,-94.68
+66214,KS,Johnson County,38.9,-94.68
+66214,KS,Johnson County,38.9,-94.68
+66215,KS,Johnson County,38.9,-94.68
+66215,KS,Johnson County,38.9,-94.68
+66216,KS,Johnson County,38.9,-94.68
+66216,KS,Johnson County,38.9,-94.68
+66217,KS,Johnson County,38.9,-94.68
+66217,KS,Johnson County,38.9,-94.68
+66218,KS,Johnson County,38.9,-94.68
+66218,KS,Johnson County,38.9,-94.68
+66219,KS,Johnson County,38.9,-94.68
+66219,KS,Johnson County,38.9,-94.68
+66220,KS,Johnson County,38.9,-94.68
+66220,KS,Johnson County,38.9,-94.68
+66221,KS,Johnson County,38.9,-94.68
+66221,KS,Johnson County,38.9,-94.68
+66222,KS,Johnson County,38.9,-94.68
+66222,KS,Johnson County,38.9,-94.68
+66223,KS,Johnson County,38.9,-94.68
+66223,KS,Johnson County,38.9,-94.68
+66224,KS,Johnson County,38.9,-94.68
+66224,KS,Johnson County,38.9,-94.68
+66225,KS,Johnson County,38.9,-94.68
+66225,KS,Johnson County,38.9,-94.68
+66226,KS,Johnson County,38.9,-94.68
+66226,KS,Johnson County,38.9,-94.68
+66227,KS,Johnson County,38.9,-94.68
+66227,KS,Johnson County,38.9,-94.68
+66250,KS,Johnson County,38.9,-94.68
+66250,KS,Johnson County,38.9,-94.68
+66251,KS,Johnson County,38.9,-94.68
+66251,KS,Johnson County,38.9,-94.68
+66276,KS,Johnson County,38.9,-94.68
+66276,KS,Johnson County,38.9,-94.68
+66279,KS,Johnson County,39.01,-94.66
+66279,KS,Johnson County,39.01,-94.66
+66282,KS,Johnson County,38.9,-94.68
+66282,KS,Johnson County,38.9,-94.68
+66283,KS,Johnson County,38.9,-94.68
+66283,KS,Johnson County,38.9,-94.68
+66285,KS,Johnson County,38.9,-94.68
+66285,KS,Johnson County,38.9,-94.68
+66286,KS,Johnson County,38.9,-94.68
+66286,KS,Johnson County,38.9,-94.68
+66413,KS,Osage County,38.75,-95.83
+66414,KS,Osage County,38.82,-95.69
+66416,KS,Jackson County,39.5,-95.85
+66416,KS,Jackson County,39.5,-95.85
+66418,KS,Jackson County,39.23,-95.96
+66418,KS,Jackson County,39.23,-95.96
+66419,KS,Jackson County,39.39,-95.62
+66419,KS,Jackson County,39.39,-95.62
+66429,KS,Jefferson County,39.08,-95.56
+66429,KS,Jefferson County,39.08,-95.56
+66436,KS,Jackson County,39.47,-95.73
+66436,KS,Jackson County,39.47,-95.73
+66440,KS,Jackson County,39.24,-95.7
+66440,KS,Jackson County,39.24,-95.7
+66451,KS,Osage County,38.61,-95.68
+66509,KS,Jackson County,39.33,-95.72
+66509,KS,Jackson County,39.33,-95.72
+66510,KS,Osage County,38.5,-95.63
+66512,KS,Jefferson County,39.19,-95.56
+66512,KS,Jefferson County,39.19,-95.56
+66516,KS,Jackson County,39.6,-95.71
+66516,KS,Jackson County,39.6,-95.71
+66523,KS,Osage County,38.63,-95.82
+66524,KS,Osage County,38.78,-95.55
+66528,KS,Osage County,38.58,-95.52
+66537,KS,Osage County,38.77,-95.74
+66540,KS,Jackson County,39.53,-95.96
+66540,KS,Jackson County,39.53,-95.96
+66543,KS,Osage County,38.67,-95.56
+66552,KS,Jackson County,39.58,-95.61
+66552,KS,Jackson County,39.58,-95.61
+66711,KS,Crawford County,37.64,-94.62
+66712,KS,Crawford County,37.54,-94.7
+66724,KS,Crawford County,37.34,-94.82
+66734,KS,Crawford County,37.61,-94.82
+66735,KS,Crawford County,37.52,-94.7
+66743,KS,Crawford County,37.51,-94.84
+66746,KS,Crawford County,37.66,-94.96
+66756,KS,Crawford County,37.55,-94.62
+66760,KS,Crawford County,37.34,-94.62
+66762,KS,Crawford County,37.41,-94.69
+66763,KS,Crawford County,37.45,-94.69
+66767,KS,Linn County,38.06,-94.69
+66767,KS,Linn County,38.06,-94.69
+66780,KS,Crawford County,37.6,-95.07
+66840,KS,Marion County,38.08,-96.88
+66842,KS,Butler County,38.03,-96.63
+66851,KS,Marion County,38.24,-96.92
+66858,KS,Marion County,38.49,-96.96
+66859,KS,Marion County,38.56,-96.96
+66861,KS,Marion County,38.34,-97.01
+66866,KS,Marion County,38.16,-97.1
+66933,KS,Washington County,39.71,-96.87
+66933,KS,Washington County,39.71,-96.87
+66937,KS,Washington County,39.56,-97.27
+66937,KS,Washington County,39.56,-97.27
+66943,KS,Washington County,39.72,-96.97
+66943,KS,Washington County,39.72,-96.97
+66944,KS,Washington County,39.85,-97.3
+66944,KS,Washington County,39.85,-97.3
+66945,KS,Washington County,39.89,-96.87
+66945,KS,Washington County,39.89,-96.87
+66946,KS,Washington County,39.98,-96.99
+66946,KS,Washington County,39.98,-96.99
+66953,KS,Washington County,39.67,-97.08
+66953,KS,Washington County,39.67,-97.08
+66955,KS,Washington County,39.98,-97.35
+66955,KS,Washington County,39.98,-97.35
+66958,KS,Washington County,39.84,-97.17
+66958,KS,Washington County,39.84,-97.17
+66962,KS,Washington County,39.63,-97.13
+66962,KS,Washington County,39.63,-97.13
+66968,KS,Washington County,39.81,-97.05
+66968,KS,Washington County,39.81,-97.05
+67002,KS,Butler County,37.69,-97.13
+67010,KS,Butler County,37.69,-96.97
+67012,KS,Butler County,37.65,-96.55
+67017,KS,Butler County,37.78,-97.1
+67039,KS,Butler County,37.51,-97.01
+67041,KS,Butler County,38.05,-97.12
+67042,KS,Butler County,37.82,-96.85
+67053,KS,Marion County,38.24,-97.34
+67063,KS,Marion County,38.35,-97.2
+67072,KS,Butler County,37.53,-96.64
+67073,KS,Marion County,38.37,-97.3
+67074,KS,Butler County,37.68,-96.78
+67123,KS,Butler County,37.93,-97.01
+67132,KS,Butler County,37.78,-96.6
+67133,KS,Butler County,37.56,-97.13
+67144,KS,Butler County,37.79,-96.99
+67154,KS,Butler County,37.96,-97.14
+67301,KS,Montgomery County,37.23,-95.71
+67333,KS,Montgomery County,37.01,-95.93
+67335,KS,Montgomery County,37.26,-95.55
+67337,KS,Montgomery County,37.04,-95.63
+67340,KS,Montgomery County,37.05,-95.71
+67344,KS,Montgomery County,37.28,-95.91
+67347,KS,Montgomery County,37.09,-95.94
+67351,KS,Montgomery County,37.15,-95.59
+67363,KS,Montgomery County,37.33,-95.72
+67364,KS,Montgomery County,37.03,-95.82
+67401,KS,Saline County,38.81,-97.61
+67402,KS,Saline County,38.81,-97.61
+67416,KS,Saline County,38.68,-97.6
+67418,KS,Lincoln County,39.18,-98.04
+67418,KS,Lincoln County,39.18,-98.04
+67423,KS,Lincoln County,39.01,-97.97
+67423,KS,Lincoln County,39.01,-97.97
+67425,KS,Saline County,38.77,-97.86
+67432,KS,Clay County,39.37,-97.12
+67432,KS,Clay County,39.37,-97.12
+67438,KS,Marion County,38.48,-97.22
+67442,KS,Saline County,38.65,-97.81
+67447,KS,Clay County,39.43,-97
+67447,KS,Clay County,39.43,-97
+67448,KS,Saline County,38.7,-97.42
+67455,KS,Lincoln County,39.04,-98.14
+67455,KS,Lincoln County,39.04,-98.14
+67456,KS,Saline County,38.57,-97.67
+67458,KS,Clay County,39.17,-97.32
+67458,KS,Clay County,39.17,-97.32
+67468,KS,Clay County,39.46,-97.2
+67468,KS,Clay County,39.46,-97.2
+67470,KS,Saline County,38.87,-97.5
+67475,KS,Marion County,38.59,-97.06
+67481,KS,Lincoln County,39.01,-98.39
+67481,KS,Lincoln County,39.01,-98.39
+67483,KS,Marion County,38.54,-97.15
+67487,KS,Clay County,39.21,-97.01
+67487,KS,Clay County,39.21,-97.01
+67511,KS,Barton County,38.45,-99.01
+67525,KS,Barton County,38.52,-98.53
+67526,KS,Barton County,38.35,-98.58
+67530,KS,Barton County,38.36,-98.8
+67544,KS,Barton County,38.51,-98.77
+67564,KS,Barton County,38.51,-98.93
+67567,KS,Barton County,38.26,-98.98
+67831,KS,Clark County,37.18,-99.76
+67840,KS,Clark County,37.03,-99.98
+67863,KS,Scott County,38.49,-101.21
+67865,KS,Clark County,37.44,-100.01
+67871,KS,Scott County,38.47,-100.9
