@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block more_styles %}
+
+<style type="text/css">
+
+	#main_table {
+		
+	}
+
+</style>
+
+{% endblock %}
+
+{% block body %}
+
+	<h2>Hello, World!</h2>
+
+	<table class='table table-bordered' id='main_table'>
+		<tr>
+			<th>Form</th>
+			<th>Company Name</th>
+			<th>Date</th>
+		</tr>
+	{% for item in MATCHES %}
+
+		<tr>
+			<td>{{ item.form }}</td>
+			<td><a href="{{ item.url }}" target='_blank'>{{ item.name }}</a></td>
+			<td>{{ item.date }}</td>
+		</tr>
+
+	{% endfor %}
+	</table>
+
+{% endblock %}

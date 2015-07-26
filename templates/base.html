@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		{% block title %}
+		{% endblock %}
+	</title>
+
+<!-- Boorstrap CSS -->
+<!-- <link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->
+
+<style type="text/css">
+
+	body {
+		background: white;
+		font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+		font-size: 14px;
+		line-height: 1.42857143;
+		color: #333;
+		margin: 0;
+	}
+
+	a {
+		color: #337ab7;
+		text-decoration: none;
+	}
+
+	.table {
+		border: 1px solid #ddd;
+		width: 100%;
+		max-width: 100%;
+		margin-bottom: 20px;
+		background-color: transparent;
+		border-spacing: 0;
+		border-collapse: collapse;
+		box-sizing: border-box;
+		display: table;
+}
+	}
+
+	.table tbody {
+		box-sizing: border-box;
+		display: table-row-group;
+		vertical-align: middle;
+		border-color: inherit;
+	}
+	.table tr {
+		display: table-row;
+		vertical-align: inherit;
+		border-color: inherit;
+		box-sizing: border-box;
+	}
+	.table th {
+		text-align: left;
+	}
+	.table td, .table th {
+		border: 1px solid #ddd;
+		padding: 8px;
+		line-height: 1.42857143;
+		vertical-align: top;
+		box-sizing: border-box;
+	}
+
+</style>
+{% block more_styles %}
+{% endblock %}
+
+</head>
+<body>
+{% block body %}
+{% endblock %}
+</body>
+</html>
