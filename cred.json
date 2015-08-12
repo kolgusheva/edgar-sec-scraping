@@ -1,0 +1,7 @@
+{
+	"gmail_user":"user@gmail.com",
+	"gmail_pwd": "PASSWORD",
+	"spreadsheet_name": "NAME_OF_SPREADSHEET_GSPREAD_WILL_OPEN",
+	"client_email": "CLIENT_EMAIL_HERE",
+	"private_key": "PRIVATE_KEY_HERE"
+}
