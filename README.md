@@ -16,7 +16,7 @@ This is a data journalism project of the [Missouri Business Alert](http://www.mi
 * Also, the app will create an sqlite database file for you and will update it with new matches each time you run it (or CRON runs it).
 
 
-### Setting thing up
+### Setting things up
 
 **There are several important things you need to do to run this app!**:
 + You can create a Gmail account the app will use to send emails, or use an existing one, but make sure **you allow less secure apps to use it**. Here's a good tutorial on what is needed: https://support.google.com/accounts/answer/6010255. Alternatively, you can set up your own email server or use more secure login techniques.
