@@ -2,3 +2,7 @@ cred.json
 test.py
 data.json
 matches.json
+db.sqlite
+*.pyc
+build/*
+!build/this.folder
