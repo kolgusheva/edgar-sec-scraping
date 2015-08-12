@@ -19,8 +19,8 @@ This is a data journalism project of the [Missouri Business Alert](http://www.mi
 
 **There are several important things you need to do to run this app!**:
 + You can create a Gmail account the app will use to send emails, or use an existing one, but make sure **you allow less secure apps to use it**. Here's a good tutorial on what is needed: https://support.google.com/accounts/answer/6010255. Alternatively, you can set up your own email server or use more secure login techniques.
-+ If you want to use a Google Spreadsheet to manage email recipients, which is built in by default, you will be using [gspread](https://github.com/burnash/gspread) and will need to set things up for using it with Google and OAuth. You will want to follow this tutorial: http://gspread.readthedocs.org/en/latest/oauth2.html Alternatively you could just hard-code a list of recipients into the app code (it's in ```send_email.py```).
++ If you want to use a Google Spreadsheet to manage email recipients, which is built in by default, you will be using [gspread](https://github.com/burnash/gspread) and will need to set things up for using it with Google and OAuth. You will want to follow this tutorial: http://gspread.readthedocs.org/en/latest/oauth2.html. Alternatively you could just hard-code the list of recipients into the app code (it's declared in ```send_email.py```).
   + In the spreadsheet, you should use the first column (column A) for emails of recipients, except for the very first cell (cell A1) because that one is for the column name.
-+ Make sure you make changes to ```cred.json```, with information you get from setting up Google Drive API if you will be using a Google Spreadsheet, the file structure should be self-explanatory.
++ Make sure you make changes to ```cred.json```, updating it with information you get from setting up Google Drive API (if you will be using a Google Spreadsheet). The JSON file structure should be self-explanatory.
 
 All suggestions and comments are welcome. Released under the Apache license.
