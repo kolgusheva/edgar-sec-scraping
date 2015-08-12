@@ -1,7 +1,7 @@
 {
-	"gmail_user":"user@gmail.com",
-	"gmail_pwd": "PASSWORD",
-	"spreadsheet_name": "NAME_OF_SPREADSHEET_GSPREAD_WILL_OPEN",
-	"client_email": "CLIENT_EMAIL_HERE",
-	"private_key": "PRIVATE_KEY_HERE"
+	"gmail_user":"moalertapps@gmail.com",
+	"gmail_pwd": "RandySmith",
+	"spreadsheet_name": "EDGAR Scraper email recipient list",
+	"client_email": "818391921557-5fortuluf5ci36ee9vd9aapuh8fhhso2@developer.gserviceaccount.com",
+	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3IMva23CkFWIj\nZX+SKIGdGbacH8PGmKtqflgX5LFBh5dXhEqiwZsA9uZXCS1y52IJXdn34JlaV6iu\ng0Iw8OIR0UHiuyBcDVp7VFRd4xChmqzWEOK0+7ExVZ0FQsQ7jYtfNhM2JcaqIOkZ\nkwTyKDk5wtWYuMIbBxNc8m1PJmBumsACUo2s/pOCKOk+pf/7rqag3sfD4UZNiMtA\n3yH/j0ySt9I/Q+7uqNExKfLwHCMfrkwUleJ6vz/sIE1V6/hLJ4/rQoT5HiJydNPF\n1/WcGOk9boAG9s+OVMG3B9SkcEaUlUtQ72K5bk/YNcNzNvcL68YmdYh68rNUJYod\naX5uwgA7AgMBAAECggEBAIp1eoxkJBt7q3LV2AmbJLyyZ1ZN0glC/0AKfPK7z6Wb\nLjtWY9QBDABDrU6bOsjI11/7nMUFBQ3Af2JLDe3RAyyzidwy3bmbwxDCZvOBrd5y\nA0HrDG4IayXA9HK404OvdnQrf4UONNIHBhd3CGNLNFFO1Y6eCuzCgcph5XHVs02L\n3Z94h2EalTdU08bwM3eU8XAK2P07lP34IMAK0AnpCfW4zw8LFGrFTEeerxVjCiSs\neDsq5up28yLMBiptuYefkGiFbvNma5uSOEKW4v494TgrnceEwaRBk7C745+S21nK\nk2OAdwCWro7/za6nXAnKrDMExfxVh/OeKvKNOF8xOGECgYEA5jDgMZr2aLexJPad\nEluT9vk6DBVhinW3JZFfXE2T7wHtpCyJ7fjRYyfOGKSNal7EvLTBvKqThrbsbmif\ncpy+empcTTBMTtiXaRksbnNrvkW29pRsZU3i6SjoxWrD/Uf0XQqTWLmL4O6k+BmA\n/sd5cjqTdPIQflJtgCdcLNDDwAsCgYEAy6kWCCObsR9sfjtA2jNtUT6GzINp17Pa\n5C66n0oprX8AyOPcizwF9pmsACIp6YqS/2OIRgteN3nObHaQvqDvoIfenEwpt5wL\nx+Hkui55Sil9pyNTpoMy1OlHhAJdQE/GfVD/dbf1qBnQDFNoWKfv9YXM636dhgZ8\no1ERSXkI7pECgYBNmybKspLmpR+M9bPo74UIG+hNEJxNAPjZKpS62tDIIJ9M3VM3\nLs7xHgdm2Xtv5Dlx4YL7p4qLPXqikpVHH788KEWsJF9lqbIKVdlb93/Yq0pPAaU1\n1jdtIkSv4hnnd23UPG+G1y9oiyyFFJwfyYKRV1xFbiLPY9zU+vAhj9SfFwKBgAui\nfT+5yQs1YF1VxT6x8WzSxaCpYUKRY8/lW4P+GKNwvfq8Cb1qkGymGs1nJj3RTNSK\nOx7FR3yj2McZfutlBkuFd5I2R6vVnlas8QQx43v5ItSJkB3TIPRI320LNYiXBh/i\noLV47O/NibUqjquB7JN6MVrCwP0HIdeyqeoon/oBAoGBANizukUejUrph8Sq/9bS\ni7+0dB3I1/GswfxlSM6L8fg1s34KZBimImtD/KKTdnOMT89waB7tJtmqPI7T4cfJ\nsH2iPTr/QDKM29fHqfbWNndrW1rDiAPqGtA5SowB9Rqj7mNcauNM/5Ol68hg5nnq\nAi/vKfM9JbRav24c025Mi6lT\n-----END PRIVATE KEY-----\n"
 }

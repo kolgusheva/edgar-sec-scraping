@@ -1,6 +1,4 @@
-test.py
-data.json
-matches.json
+cred.json
 db.sqlite
 *.pyc
 build/*
