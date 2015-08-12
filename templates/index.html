@@ -1,38 +1,80 @@
 {% extends "base.html" %}
-
 {% block title %}Home{% endblock %}
-
 {% block more_styles %}
-
 <style type="text/css">
 
 	#main_table {
 		
 	}
 
+	.red {
+		color: red;
+	}
+
+	.centered {
+		text-align: center;
+	}
+
 </style>
-
 {% endblock %}
-
 {% block body %}
+	<h2 class='centered'>Hi! It's me. The EDGAR Scraper!</h2>
+	<h3 class='centered'>So, I checked filings for <span class='red'>{{ DATA['date'] }}</span>. I found 
+		<span class = 'red'>
+		{% if DATA['total'] == 0 %}
+			no</span> matches.
+		{% elif DATA['total'] == 1 %}
+			one</span> match.
+		{% else %}
+			{{ DATA['total'] }}</span> matches.
+		{% endif %}
+	</h3>
+	{% if DATA['total'] != 0 %}
+		<h2>Form D table</h2>
+		<table class='table table-bordered' id='form_D_table'>
+			<tr>
+				<th>Form</th>
+				<th>Company Name</th>
+				<th>Date</th>
+				<th>Industry</th>
+				<th>Total Offering</th>
+				<th>Total Sold</th>
+				<th>Signer Name</th>
+			</tr>
+		{% for item in MATCHES %}
+			{% if item.form == 'D' %}
+				<tr>
+					<td>{{ item.form }}</td>
+					<td><a href="{{ item.url }}" target='_blank'>{{ item.name }}</a></td>
+					<td>{{ item.date }}</td>
+					<td>{{ item.industry }}</td>
+					<td>{{ item.total_offering }}</td>
+					<td>{{ item.total_sold }}</td>
+					<td>{{ item.signer_name }}</td>
+				</tr>
+			{% endif %}
+		{% endfor %}
+		</table>
 
-	<h2>Hello, World!</h2>
+		<h2>Table for all other forms</h2>
 
-	<table class='table table-bordered' id='main_table'>
-		<tr>
-			<th>Form</th>
-			<th>Company Name</th>
-			<th>Date</th>
-		</tr>
-	{% for item in MATCHES %}
-
-		<tr>
-			<td>{{ item.form }}</td>
-			<td><a href="{{ item.url }}" target='_blank'>{{ item.name }}</a></td>
-			<td>{{ item.date }}</td>
-		</tr>
-
-	{% endfor %}
-	</table>
-
+		<table class='table table-bordered' id='main_table'>
+			<tr>
+				<th>Form</th>
+				<th>Company Name</th>
+				<th>Date</th>
+			</tr>
+		{% for item in MATCHES %}
+			{% if item.form != 'D' %}
+				<tr>
+					<td>{{ item.form }}</td>
+					<td><a href="{{ item.url }}" target='_blank'>{{ item.name }}</a></td>
+					<td>{{ item.date }}</td>
+				</tr>
+			{% endif %}
+		{% endfor %}
+		</table>
+	{% else %}
+		<h3>Thus, there is nothing in this email :( <br />Maybe more luck tomorrow!</h3>
+	{% endif %}
 {% endblock %}

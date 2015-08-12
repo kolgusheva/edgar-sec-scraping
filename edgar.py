@@ -78,101 +78,118 @@ def getMatches():
 	
 	d = date.today() - timedelta(days=1)
 	yesterday = d.strftime("%Y%m%d")
-	yesterday = "20150722"
+	# you can change the 'yesterday' value for testing:
+	# yesterday = "20150722"
 	url = "ftp://ftp.sec.gov/edgar/daily-index/form." + yesterday + ".idx"
 	forms = STT['forms']
 
-	page = openUrl(url)
+	try:
+		page = openUrl(url)
 
-	matches = []
+		matches = []
 
-	if page:
-		by_lines = page.split("\n")
-		by_lines = by_lines[11:]
+		if page:
+			by_lines = page.split("\n")
+			by_lines = by_lines[11:]
 
-		# Delete one line below, it's for tests only
-		by_lines = by_lines[1605:1609]
+			# Next line is for tests only
+			by_lines = by_lines[3023:3025]
 
-		# This piece of code will count how many rows there are
-		total_to_visit = 0
-		for line in by_lines:
-			p = re.compile( '\s{2,}')
-			line = p.sub( ';', line)
-			line = line[:-1]
-			line_as_list = line.split(";")
-			if line_as_list[0] in forms:
-				total_to_visit = total_to_visit + 1
-		print 'Total URLs that I will visit: ' + str(total_to_visit)
+			# This piece of code will count how many rows there are
+			total_to_visit = 0
+			for line in by_lines:
+				p = re.compile( '\s{2,}')
+				line = p.sub( ';', line)
+				line = line[:-1]
+				line_as_list = line.split(";")
+				if line_as_list[0] in forms:
+					total_to_visit = total_to_visit + 1
+			print 'Total URLs that I will visit: ' + str(total_to_visit)
 
-		# Go through every row again, just like before, but this time do some real actions, not just count rows
-		for line in by_lines:
+			# Go through every row again, just like before, but this time do some real actions, not just count rows
+			for line in by_lines:
 
-			p = re.compile( '\s{2,}')
-			line = p.sub( ';', line)
-			line = line[:-1]
-			line_as_list = line.split(";")
+				p = re.compile( '\s{2,}')
+				line = p.sub( ';', line)
+				line = line[:-1]
+				line_as_list = line.split(";")
 
-			#Line_as_list structure: 
-			# lines_as_list[0] - form type
-			# lines_as_list[1] - company name
-			# lines_as_list[2] - cik
-			# lines_as_list[3] - date 
-			# lines_as_list[4] - link
-			# lines_as_list[5] - state
-			form = line_as_list[0]
-			if form in forms:
-				total_to_visit = total_to_visit - 1
-				print 'Left URLs to visit: ' + str(total_to_visit)
-				detail_url = "ftp://ftp.sec.gov/" + line_as_list[4]
-				detail_page = urllib2.urlopen(detail_url).read()
-				detail_page_by_lines = detail_page.split("\n")
+				#Line_as_list structure: 
+				# lines_as_list[0] - form type
+				# lines_as_list[1] - company name
+				# lines_as_list[2] - cik
+				# lines_as_list[3] - date 
+				# lines_as_list[4] - link
+				# lines_as_list[5] - state
+				form = line_as_list[0]
+				if form in forms:
+					total_to_visit = total_to_visit - 1
+					print 'Left URLs to visit: ' + str(total_to_visit)
+					detail_url = "ftp://ftp.sec.gov/" + line_as_list[4]
+					detail_page = urllib2.urlopen(detail_url).read()
+					detail_page_by_lines = detail_page.split("\n")
 
-				if form == "10-K" or form == '10-Q':
-					zip = detail_page_by_lines[30]
-				elif form == '8-K':
-					zip = detail_page_by_lines[32]
-				else: # if form D
-					zip = detail_page_by_lines[33]
+					if form == "10-K" or form == '10-Q':
+						zip = detail_page_by_lines[30]
+					elif form == '8-K':
+						zip = detail_page_by_lines[32]
+					else: # if form D
+						zip = detail_page_by_lines[33]
 
-				new_URL = line_as_list[4].replace("-", "")
+					new_URL = line_as_list[4].replace("-", "")
 
-				p = re.compile('\d{5}')
-				result = re.search(p, zip)
-				try:
-					zip = result.group(0)
-				except:
-					zip = 'ERROR'
-				if zip in zips:
+					p = re.compile('\d{5}')
+					result = re.search(p, zip)
+					try:
+						zip = result.group(0)
+					except:
+						zip = 'ERROR'
+					if zip in zips:
 
-					url_and_acc = make_url_and_acc(line_as_list[4])
+						url_and_acc = make_url_and_acc(line_as_list[4])
 
-					filing_date = line_as_list[3]
-					filing_date = filing_date[:4] + filing_date[4:6] + filing_date[6:]
-					# convert string to datetime object
-					filing_date = datetime.strptime(filing_date, "%Y%m%d").date()
+						filing_date = line_as_list[3]
+						filing_date = filing_date[:4] + filing_date[4:6] + filing_date[6:]
+						# convert string to datetime object
+						filing_date = datetime.strptime(filing_date, "%Y%m%d").date()
 
-					company = {
-						'form': form,
-						'name': line_as_list[1],
-						'date': filing_date,
-						'cik': line_as_list[2],
-						'url': url_and_acc["full_url"],
-						'acc_num': url_and_acc["acc_num"],
-						'street_address': '',
-						'city': '',
-						'type_of_securities': '',
-						'type_of_filing': '',
-						'total_offering': 0,
-						'total_sold': 0,
-						'industry': '',
-						'signer_name': '',
-						'signer_title': ''
-					}
+						# !!! IMPORTANT !!!
+						# the structure of the DICT object for every company is the same,
+						# but only the form D filings will have info like city or type of offering, etc.,
+						# for form 8-K or 10-K filings those fields WILL EXIST but will be empty
 
-					if form == 'D':
-						form_d_dict = soupchik(url_and_acc["url_form_D"])
-						company.update(form_d_dict) #method update allows glueing two dicts together
-						
-					matches.append(company)
+						company = {
+							'form': form,
+							'name': line_as_list[1],
+							'date': filing_date,
+							'cik': line_as_list[2],
+							'url': url_and_acc["full_url"],
+							'acc_num': url_and_acc["acc_num"],
+							'street_address': '',
+							'city': '',
+							'type_of_securities': '',
+							'type_of_filing': '',
+							'total_offering': 0,
+							'total_sold': 0,
+							'industry': '',
+							'signer_name': '',
+							'signer_title': ''
+						}
 
-	return matches
+						if form == 'D':
+							form_d_dict = soupchik(url_and_acc["url_form_D"])
+							company.update(form_d_dict) #method update allows glueing two dicts together
+							
+						matches.append(company)
+
+		return_object = {
+			'matches': matches,
+			'data': {
+				'date': (date.today()-timedelta(days=1)).strftime("%d/%m/%Y"),
+				'total': str(len(matches))
+			}
+		}
+		return return_object
+	except:
+		print 'Date DOES NOT EXIST'
+		return False

@@ -1,147 +1,50 @@
+import json
+import gspread
 import smtplib
+from oauth2client.client import SignedJwtAssertionCredentials as SJAC
 
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-from string import Template
+def sendEmail():
 
+	# Get credentials
+	with open('cred.json', 'r') as creds:
+		usr = json.loads(creds.read())
 
-filings = [
-	{
-		"form_type": '8-K',
-		"company_name": "Walmart",
-		"cik": '1234567890',
-		"date": '11-12-2200',
-		'link':'http://google.com',
-		'state': 'MO'
-	},
-	{
-		"form_type": '8-K',
-		"company_name": "Walmart 2",
-		"cik": '1234567890',
-		"date": '11-12-2200',
-		'link':'http://google.com',
-		'state': 'MO'
-	},
-	{
-		"form_type": '8-K',
-		"company_name": "Walmart 3",
-		"cik": '1234567890',
-		"date": '11-12-2200',
-		'link':'http://google.com',
-		'state': 'MO'
-	},
-]
+	# Get list of email recepients from the Google Spreadsheet
+	# Log in first
+	scope = ['https://spreadsheets.google.com/feeds']
+	credentials = SJAC(usr['client_email'], usr['private_key'], scope)
 
+	gc = gspread.authorize(credentials)
+	# Get the sheet
+	sheet = gc.open(usr['spreadsheet_name']).sheet1
+	cell_list = sheet.col_values(1)
+	# TO == email addresses of recipients (extracted from the Spreadsheet,
+	# all values in column 1 except for first, which is column name)
+	TO = cell_list[1:]
 
-form_D_filings = [
-	{
-		"form_type": 'D',
-		"company_name": "World Government",
-		"cik": '1234567890',
-		"date": '11-12-2200',
-		'link':'http://google.com',
-		'state': 'MO',
-		'offered': '$3',
-		'sold': '$50',
-		'address': 'Earth',
-		'city': 'Mumbai'
-	},
-	{
-		"form_type": 'D',
-		"company_name": "World Government 2",
-		"cik": '1234567890',
-		"date": '11-12-2200',
-		'link':'http://google.com',
-		'state': 'MO',
-		'offered': '$3',
-		'sold': '$50',
-		'address': 'Earth',
-		'city': 'Mumbai'
-	},
-]
-
-
-
-base_html_start = "<html><head></head><body>"
-base_html_end = "</table></body></html>"
-
-
-def send_email(filings, form_D_filings):
-
-	all_forms_table_start = """\
-		<table>
-			<tr>
-				<th>Form Type</th>
-				<th>Company Name</th>
-				<th>CIK</th>
-				<th>Date</th>
-				<th>Link</th>
-				<th>State</th>
-			</tr>"""
-
-	table_end = '</table>'
-
-	form_D_table_start = """\
-		<table>
-			<tr>
-				<th>Form Type</th>
-				<th>Company Name</th>
-				<th>CIK</th>
-				<th>Date</th>
-				<th>Link</th>
-				<th>State</th>
-				<th>Offered</th>
-				<th>Sold</th>
-				<th>Address</th>
-				<th>City</th>
-			</tr>"""
-
-	# FROM == my email address
-	# TO == recipient's email address
+	# FROM == sender's email address
 	FROM = "missourianapps@gmail.com"
-	TO = ['kolgushev@gmail.com','dorovs@gmail.com']
-
-	TO = ', '.join( TO )
-
-	gmail_user = "missourianapps@gmail.com"
-	gmail_pwd = "M@ver!ck$"
 
 	# Create message container - the correct MIME type is multipart/alternative.
 	msg = MIMEMultipart('alternative')
-	msg['Subject'] = "Test HTML - one more!"
+	msg['Subject'] = "EDGAR Scraper says 'Hi!'"
 	msg['From'] = FROM
-	msg['To'] = TO
+	msg['To'] = ", ".join(TO)
 
-	# Prepare actual message
-	plain_message = "This is a non-HTML version of the email"
+	# Create the body of the message (a plain-text and an HTML version).
+	# Open the text file for plain text and HTML for hyper-text
+	with open('build/send.txt', 'r') as plain_txt:
+		text = plain_txt.read()
 
-	with open('template.html', 'r') as f:
-	  all_forms_html = f.read()
+	with open('build/send.html', 'r') as hyper_text:
+		html = hyper_text.read()
 
-	with open('template_form_D.html', 'r') as f:
-	  form_D_html = f.read()
-
-	inner_html_list_all_forms = []
-	inner_html_list_form_D = []
-
-	for item in filings:
-		h = Template(all_forms_html).safe_substitute(item)
-		inner_html_list_all_forms.append(h)
-
-	for item in form_D_filings:
-			h = Template(form_D_html).safe_substitute(item)
-			inner_html_list_form_D.append(h)
-
-	all_forms_html = ''.join(inner_html_list_all_forms)
-	form_D_html = ''.join(inner_html_list_form_D)
-	
-	final_html = base_html_start + all_forms_table_start + all_forms_html + table_end + '<h2>FORM D!!!!</h2>' + form_D_table_start + form_D_html +table_end + base_html_end
-
-	print final_html
-
-	part1 = MIMEText(plain_message, 'plain')
-	part2 = MIMEText(final_html, 'html')
+	# Record the MIME types of both parts - text/plain and text/html.
+	part1 = MIMEText(text, 'plain')
+	part2 = MIMEText(html, 'html')
 
 	# Attach parts into message container.
 	# According to RFC 2046, the last part of a multipart message, in this case
@@ -149,19 +52,15 @@ def send_email(filings, form_D_filings):
 	msg.attach(part1)
 	msg.attach(part2)
 
+	# Send the message through Gmail
 	try:
-	#server = smtplib.SMTP(SERVER) 
 		server = smtplib.SMTP("smtp.gmail.com", 587) #or port 465 doesn't seem to work!
 		server.ehlo()
 		server.starttls()
-		server.login(gmail_user, gmail_pwd)
+		server.login(usr['gmail_user'], usr['gmail_pwd'])
 		server.sendmail(FROM, TO, msg.as_string())
 		# server.quit()
 		server.close()
 		print 'successfully sent the mail'
 	except:
 		print "failed to send mail"
-
-
-
-send_email(filings, form_D_filings)

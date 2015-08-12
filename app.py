@@ -4,11 +4,6 @@ from database import database, Filings
 
 matches = getMatches()
 
-# import json
-# with open('matches.json', 'r') as f:
-# 	matches = json.load(f)
-
-
 def updateDB():
 
 	# Update sql database
@@ -20,14 +15,15 @@ def updateDB():
 		# If table exists, just pass on
 		pass
 	# save new filings in database
-	for filing in matches:
+	for filing in matches['matches']:
 		new_row = Filings(**filing)
 		new_row.save()
 
 app = Flask(__name__)
 
 data = {
-	'MATCHES': matches
+	'MATCHES': matches['matches'],
+	'DATA': matches['data']
 }
 
 @app.route('/')
