@@ -14,7 +14,7 @@ def saveFiles():
 		# Create static html files
 		if __name__ == '__main__':
 			print 'NAME IS MAINEE!!!'
-		    freezer.freeze()
+			freezer.freeze()
 
 		with open('build/index.html','r') as html:
 			output = fromString(html.read())
