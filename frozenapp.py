@@ -13,6 +13,7 @@ def saveFiles():
 		freezer = Freezer(app)
 		# Create static html files
 		if __name__ == '__main__':
+			print 'NAME IS MAINEE!!!'
 		    freezer.freeze()
 
 		with open('build/index.html','r') as html:
