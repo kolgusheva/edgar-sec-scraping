@@ -79,7 +79,7 @@ def getMatches():
 	d = date.today() - timedelta(days=1)
 	yesterday = d.strftime("%Y%m%d")
 	# you can change the 'yesterday' value for testing:
-	yesterday = "20150811"
+	# yesterday = "20150811"
 	url = "ftp://ftp.sec.gov/edgar/daily-index/form." + yesterday + ".idx"
 	forms = STT['forms']
 
@@ -92,7 +92,7 @@ def getMatches():
 			by_lines = page.split("\n")
 			by_lines = by_lines[11:]
 			# Next line is for tests only
-			by_lines = by_lines[138:139] + by_lines[195:196]
+			# by_lines = by_lines[138:139] + by_lines[195:196]
 
 			# This piece of code will count how many rows there are
 			total_to_visit = 0
