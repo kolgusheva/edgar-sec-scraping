@@ -25,6 +25,12 @@ def sendEmail():
 	# all values in column 1 except for first, which is column name)
 	TO = cell_list[1:]
 
+	# clear list of TO to make sure it's proper addresses
+	recepients = []
+	for email_addr in TO:
+		if email_addr != None:
+			recepients.append(email_addr)
+
 	# FROM == sender's email address
 	FROM = "missourianapps@gmail.com"
 
@@ -32,7 +38,7 @@ def sendEmail():
 	msg = MIMEMultipart('alternative')
 	msg['Subject'] = "EDGAR Scraper says 'Hi!'"
 	msg['From'] = FROM
-	msg['To'] = ", ".join(TO)
+	msg['To'] = ', '.join(recepients)
 
 	# Create the body of the message (a plain-text and an HTML version).
 	# Open the text file for plain text and HTML for hyper-text

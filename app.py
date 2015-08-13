@@ -4,32 +4,36 @@ from database import database, Filings
 
 matches = getMatches()
 
-def updateDB():
+if matches:
 
-	# Update sql database
-	db = database()
-	try:
-		# Create table if does not exist
-		db.create_table(Filings)
-	except:
-		# If table exists, just pass on
-		pass
-	# save new filings in database
-	for filing in matches['matches']:
-		new_row = Filings(**filing)
-		new_row.save()
+	def updateDB():
 
-app = Flask(__name__)
+		# Update sql database
+		db = database()
+		try:
+			# Create table if does not exist
+			db.create_table(Filings)
+		except:
+			# If table exists, just pass on
+			pass
+		# save new filings in database
+		for filing in matches['matches']:
+			new_row = Filings(**filing)
+			new_row.save()
 
-data = {
-	'MATCHES': matches['matches'],
-	'DATA': matches['data']
-}
+	app = Flask(__name__)
 
-@app.route('/')
-def index():
-    return render_template('index.html', **data)
+	data = {
+		'MATCHES': matches['matches'],
+		'DATA': matches['data']
+	}
 
-if __name__ == '__main__':
-    app.debug = True
-    app.run()
+	@app.route('/')
+	def index():
+		return render_template('index.html', **data)
+
+	if __name__ == '__main__':
+		app.debug = True
+		app.run()
+else:
+	app = False

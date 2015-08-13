@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from frozen-app import saveFiles
+from frozenapp import saveFiles
 from send_email import sendEmail
 
 print 'STAGE 1.'
