@@ -24,4 +24,24 @@ This is a data journalism project of the [Missouri Business Alert](http://www.mi
   + In the spreadsheet, you should use the first column (column A) for emails of recipients, except for the very first cell (cell A1) because that one is for the column name.
 + Make sure you remane ```example_cred.json``` from this repo to just ```cred.json```, updating the file with information you get from setting up Google Drive API (if you will be using a Google Spreadsheet). The JSON file structure should be self-explanatory.
 
+### Requirements
+
+All requirements generated via `pip freeze`. You can install them automatically using the requirements.txt file provided in this repo. To do that just run `pip install -r requirements.txt`.
+
+BeautifulSoup==3.2.1
+beautifulsoup4==4.4.0
+cssutils==1.0
+Flask==0.10.1
+Frozen-Flask==0.11
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+peewee==2.6.3
+pynliner==0.5.2
+Werkzeug==0.10.4
+wheel==0.24.0
+
+
+
+
 All suggestions and comments are welcome. Released under the Apache license.
