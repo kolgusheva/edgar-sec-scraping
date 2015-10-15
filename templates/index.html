@@ -18,15 +18,14 @@
 </style>
 {% endblock %}
 {% block body %}
-	<h2 class='centered'>Hi! It's me. The EDGAR Scraper!</h2>
-	<h3 class='centered'>So, I checked filings for <span class='red'>{{ DATA['date'] }}</span>. I found 
+	<h3 class='centered'>The EDGAR Scraper checked filings for <span class='red'>{{ DATA['date'] }}</span> and found 
 		<span class = 'red'>
 		{% if DATA['total'] == 0 %}
-			no</span> matches.
+			no</span> matches:
 		{% elif DATA['total'] == 1 %}
-			one</span> match.
+			one</span> match:
 		{% else %}
-			{{ DATA['total'] }}</span> matches.
+			{{ DATA['total'] }}</span> matches:
 		{% endif %}
 	</h3>
 	{% if DATA['total'] != 0 %}

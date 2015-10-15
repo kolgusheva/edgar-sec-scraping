@@ -1,4 +1,5 @@
 import json
+import csv
 import gspread
 import smtplib
 from oauth2client.client import SignedJwtAssertionCredentials as SJAC
@@ -34,19 +35,20 @@ def sendEmail():
 	# FROM == sender's email address
 	FROM = "missourianapps@gmail.com"
 
-	# Create message container - the correct MIME type is multipart/alternative.
-	msg = MIMEMultipart('alternative')
-	msg['Subject'] = "EDGAR Scraper says 'Hi!'"
-	msg['From'] = FROM
-	msg['To'] = ', '.join(recepients)
-
 	# Create the body of the message (a plain-text and an HTML version).
 	# Open the text file for plain text and HTML for hyper-text
 	with open('build/send.txt', 'r') as plain_txt:
 		text = plain_txt.read()
+		number_of_items = len(list(csv.reader(plain_text))) - 1
 
 	with open('build/send.html', 'r') as hyper_text:
 		html = hyper_text.read()
+
+	# Create message container - the correct MIME type is multipart/alternative.
+	msg = MIMEMultipart('alternative')
+	msg['Subject'] = "Edgar Scraper: %s match(es)" % number_of_items
+	msg['From'] = FROM
+	msg['To'] = ', '.join(recepients)
 
 	# Record the MIME types of both parts - text/plain and text/html.
 	part1 = MIMEText(text, 'plain')
